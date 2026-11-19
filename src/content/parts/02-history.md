@@ -34,7 +34,7 @@ Herc had noticed that dancers waited for the **break**, the stretch where the ba
 
 Whether that night counts as the birth of hip-hop is argued by the people who know most about it. Jeff Chang has called the party "a creation myth", and the historian Jay Quan says the same ideas were developing at other parties around the Bronx.[^his-npr-2023] By 1975 Grandmaster Flash was DJing in Herc's style and Afrika Bambaataa had a sound system of his own.[^his-wp-herc]
 
-Flash made a method of it. He marked the best part of each record with a crayon or grease pencil, worked out how to cue it, rebuilt his mixer, and by his own telling could stretch a 10-second drum break to 10 minutes.[^gfa-theday-flash-2016] In 1981 he put it on a record: "The Adventures of Grandmaster Flash on the Wheels of Steel" runs seven minutes, cuts between Chic's "Good Times", Queen's "Another One Bites the Dust" and Blondie's "Rapture", and was performed live on the turntables with no multitracking.[^gfa-rockhall-flash]
+Flash made a method of it. He marked the best part of each record with a crayon or grease pencil, worked out how to cue it, rebuilt his mixer, and by his own telling could stretch a 10-second drum break to 10 minutes.[^gfa-theday-flash-2016] In 1981 he put it on a record: "The Adventures of Grandmaster Flash on the Wheels of Steel" runs seven minutes, cuts between Chic's "Good Times", Queen's "Another One Bites the Dust" and Blondie's "Rapture", and was recorded live on the turntables.[^gfa-rockhall-flash]
 
 ### Did "Rapper's Delight" sample "Good Times"?
 
@@ -48,11 +48,11 @@ The payment is known only from Baker's side. He says Kraftwerk got $1 for every 
 
 ### What was the first song to use a sample?
 
-It depends on what counts. "The Flying Saucer" had other people's records spliced into it in 1956.[^his-wp-plunderphonics] The first hit with a sound from a digital sampler is usually given as Kate Bush's "Babooshka" (1980), where the breaking glass is a Fairlight.[^his-pc-fairlight]
+It depends on what counts. "The Flying Saucer" had other people's records spliced into it in 1956.[^his-wp-plunderphonics] The first hit record with a Fairlight on it is usually given as Kate Bush's "Babooshka" (1980), where the breaking glass is a sample.[^his-pc-fairlight]
 
 ### When did samplers reach pop music?
 
-The Fairlight CMI was unveiled in 1979 at around $25,000, an 8-bit machine that could hold about a second of sound.[^his-pc-fairlight][^his-wp-fairlight] Peter Gabriel set up a company to import it to Britain; John Paul Jones was the first customer, then Kate Bush and Trevor Horn.[^his-es-fairlight][^his-pc-fairlight] Its stock orchestra stab, lifted from a recording of Stravinsky's "Firebird" that Vogel had on his shelf, is the one on "Planet Rock".[^his-pc-fairlight][^his-sos-planetrock]
+The Fairlight CMI was unveiled in 1979 at around $25,000, an 8-bit machine that could hold about a second of sound.[^his-pc-fairlight][^his-wp-fairlight] Peter Gabriel set up a company to import it to Britain; John Paul Jones was the first British customer, then Kate Bush and Trevor Horn.[^his-es-fairlight][^his-pc-fairlight][^his-wp-fairlight] Its stock orchestra stab, lifted from a recording of Stravinsky's "Firebird", is the one on "Planet Rock".[^his-pc-fairlight][^his-sos-planetrock]
 
 Cheaper machines followed, and [/machines/](/machines/) takes them one by one. E-mu's Emulator arrived in 1981, and New Order used one to sample Kraftwerk's "Uranium" for "Blue Monday" (1983).[^his-es-fairlight] The E-mu SP-1200 (1987) gave hip-hop producers about 10 seconds of gritty 12-bit memory, and the Akai MPC60 (1988) gave them 16 pads and swing.[^his-voice-sp1200][^his-fact-samplers]
 
@@ -86,7 +86,7 @@ The Justified Ancients of Mu Mu, later the KLF, were less lucky. Their album "19
 
 ### What is the Amen break?
 
-Four bars of drums played by Gregory Coleman on the Winstons' "Amen, Brother", a 1969 B-side. It lasts about six seconds, 5.2 of them clean drums by UKF's measure.[^gfa-loc-nrr-2026][^his-ukf-amen] It reached DJs through the "Ultimate Breaks and Beats" compilations of 1986 to 1991, turned up in hip-hop on Salt-N-Pepa's "I Desire" (1986) and N.W.A's "Straight Outta Compton" (1988), and then crossed the Atlantic, where British producers sped it up for raves.[^his-ukf-amen][^his-mixmag-amen] Carl Cox's "I Want You (Forever)" and Lennie De Ice's "We Are I.E.", both 1991, are early examples, and jungle and drum and bass were built on it afterward. Mixmag put the tally at "over 2500 tracks" in 2018.[^his-mixmag-amen] The rest of the canon is at [/breaks/](/breaks/).
+Four bars of drums played by Gregory Coleman on the Winstons' "Amen, Brother", a 1969 B-side. It lasts about six seconds, 5.2 of them clean drums by UKF's measure.[^gfa-loc-nrr-2026][^his-ukf-amen] It reached DJs through the "Ultimate Breaks and Beats" compilations of 1986 to 1991, turned up in hip-hop on Salt-N-Pepa's "I Desire" (1986) and N.W.A's "Straight Outta Compton" (1988), and then crossed the Atlantic, where British producers sped it up for raves.[^his-ukf-amen][^his-mixmag-amen][^gfa-insider-amen-2023] Carl Cox's "I Want You (Forever)" and Lennie De Ice's "We Are I.E.", both 1991, are early examples, and jungle and drum and bass were built on it afterward. Mixmag put the tally at "over 2500 tracks" in 2018.[^his-mixmag-amen] The rest of the canon is at [/breaks/](/breaks/).
 
 ### Where did Brazilian funk get its beat?
 
@@ -100,7 +100,7 @@ In May 2021 the Los Angeles Times found Johns, then 70 and recently homeless in 
 
 ### How many samples are on "Since I Left You"?
 
-Robbie Chater of the Avalanches gave Sound On Sound a conservative estimate of more than 3,500 in 2002, reasoning from two Akai S2000 programs of 100 keygroups each on most of the 18 songs.[^gfa-sos-avalanches-2002] Other counts stop near 900.[^his-wp-sily] The Australian group built the album largely on a Yamaha Promix 01 mixer and Akai S2000 samplers.[^gfa-sos-avalanches-2002] It came out in Australia in November 2000 after a delay for clearances, and the editions released overseas the next year lost or swapped several samples.[^his-wp-sily] The Madonna "Holiday" bassline on it began as a joke on a tape of finds. "We just got so used to it on there we thought we may as well try to clear it," Chater said.[^his-complex-avalanches]
+Robbie Chater of the Avalanches gave Sound On Sound a conservative estimate of more than 3,500 in 2002, reasoning from two Akai S2000 programs of 100 keygroups each on most of the 18 songs.[^gfa-sos-avalanches-2002] The magazine printed the same figure again in 2016.[^gfb-sos-avalanches-2016] Other counts stop near 900.[^his-wp-sily] The Australian group built the album largely on a Yamaha Promix 01 mixer and Akai S2000 samplers.[^gfa-sos-avalanches-2002] It came out in Australia in November 2000 after a delay for clearances, and the editions released overseas the next year lost or swapped several samples.[^his-wp-sily] The Madonna "Holiday" bassline on it began as a joke on a tape of finds. "We just got so used to it on there we thought we may as well try to clear it," Chater said.[^his-complex-avalanches]
 
 ### What was chipmunk soul?
 
@@ -116,7 +116,7 @@ Partly, at most. J Dilla's "Donuts" came out on Stones Throw on February 7, 2006
 
 ### What was Grey Tuesday?
 
-A one-day online protest on February 24, 2004. Danger Mouse had released "The Grey Album" that month in a small run, and EMI and Capitol told him and the shops carrying it to stop.[^his-voice-grey][^his-wp-grey] The activist group Downhill Battle answered by organizing about 170 websites to host the album for a day, with several hundred more turning their pages gray. By its own estimate the album was downloaded more than 100,000 times. Capitol's lawyers sent letters, and nobody was sued.[^his-voice-grey]
+A one-day online protest on February 24, 2004. Danger Mouse had released "The Grey Album" that month in a small run, and EMI and Capitol told him and the shops carrying it to stop.[^his-voice-grey][^his-wp-grey] The activist group Downhill Battle answered by organizing about 170 websites to host the album for a day, with several hundred more turning their pages gray. By its own estimate the album was downloaded more than 100,000 times. Capitol's lawyers sent letters.[^his-voice-grey]
 
 ### Where did vaporwave come from?
 

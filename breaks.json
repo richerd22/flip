@@ -18,7 +18,7 @@
   "what": "An eight-bar drum solo of about 20 seconds.",
   "used_by": "Public Enemy, LL Cool J, George Michael, Ed Sheeran",
   "count": "WhoSampled listed 1,987 as of July 2025",
-  "paid": "Stubblefield was not credited as a writer and got little or no royalties.",
+  "paid": "Stubblefield was not credited as a writer and saw little in royalties.",
   "source_url": "https://www.rollingstone.com/music/music-news/clyde-stubblefield-james-browns-funky-drummer-dead-at-73-124337/"
  },
  {
@@ -27,7 +27,7 @@
   "year": "1972",
   "player": "John \"Jabo\" Starks",
   "what": "The drum loop, the tambourine and the shouted vocal stab.",
-  "used_by": "Rob Base and DJ E-Z Rock, Cookie Crew, Kanye West, Snoop Dogg",
+  "used_by": "Rob Base and DJ E-Z Rock, Cookie Crew",
   "count": "WhoSampled listed 3,984 as of July 2025",
   "paid": "",
   "source_url": "https://en.wikipedia.org/wiki/Think_(About_It)"
@@ -79,7 +79,7 @@
  {
   "name": "It's a New Day",
   "artist": "Skull Snaps - \"It's a New Day\"",
-  "year": "",
+  "year": "1973",
   "player": "George Bragg",
   "what": "The drums.",
   "used_by": "Stezo, The Prodigy, Rob Dougan",
@@ -90,7 +90,7 @@
  {
   "name": "The Big Beat",
   "artist": "Billy Squier - \"The Big Beat\"",
-  "year": "",
+  "year": "1980",
   "player": "Bobby Chouinard",
   "what": "The opening drums.",
   "used_by": "Run-DMC, Jay-Z, Dizzee Rascal, Alicia Keys",
@@ -101,7 +101,7 @@
  {
   "name": "Mardi Gras",
   "artist": "Bob James - \"Take Me to the Mardi Gras\"",
-  "year": "",
+  "year": "1975",
   "player": "",
   "what": "The opening drums and bell pattern.",
   "used_by": "Run-DMC, De La Soul, N.W.A",
@@ -112,7 +112,7 @@
  {
   "name": "Nautilus",
   "artist": "Bob James - \"Nautilus\"",
-  "year": "",
+  "year": "1974",
   "player": "Gary King (bass)",
   "what": "The bassline and the sonar-like synth.",
   "used_by": "Ultramagnetic MC's, Run-DMC, Slick Rick, A Tribe Called Quest",
@@ -128,13 +128,13 @@
   "what": "The siren-like guitar figure at the top.",
   "used_by": "Big Daddy Kane, Public Enemy, The Notorious B.I.G., J Dilla",
   "count": "WhoSampled listed 616 as of July 2025",
-  "paid": "ESG went about 20 years without compensation; royalties began after a 2000 compilation.",
+  "paid": "ESG went about 20 years without royalties from the sampling; payments began after a 2000 compilation.",
   "source_url": "https://djmag.com/features/esgs-infinite-influence-how-south-bronx-sisters-shaped-hip-hop-and-house"
  },
  {
   "name": "Ashley's Roachclip",
   "artist": "The Soul Searchers - \"Ashley's Roachclip\"",
-  "year": "",
+  "year": "1974",
   "player": "",
   "what": "The break at about 3:36.",
   "used_by": "Eric B. and Rakim, PM Dawn, Milli Vanilli, EMF",
@@ -145,7 +145,7 @@
  {
   "name": "Papa Was Too",
   "artist": "Joe Tex - \"Papa Was Too\"",
-  "year": "",
+  "year": "1966",
   "player": "",
   "what": "Open drums with a tambourine on beat two.",
   "used_by": "EPMD, Wu-Tang Clan, Common, Dr. Dre",
@@ -172,13 +172,13 @@
   "what": "A tone and a vocoder line ending on the word \"fresh\", at the end of the B-side.",
   "used_by": "Herbie Hancock, Eric B. and Rakim, Beastie Boys, Macklemore",
   "count": "WhoSampled listed 2,949 as of July 2025",
-  "paid": "Writer Bernard Zekri, Roger Trilling and Beside say they were not paid.",
+  "paid": "Writer Bernard Zekri and Roger Trilling say they were not paid; Beside does not remember whether she signed a contract.",
   "source_url": "https://thehustle.co/why-nobody-got-paid-for-one-of-the-most-sampled-sounds-in-hip-hop"
  },
  {
   "name": "Trans-Europe Express / Numbers",
   "artist": "Kraftwerk - \"Trans-Europe Express\" and \"Numbers\"",
-  "year": "",
+  "year": "1977 / 1981",
   "player": "Kraftwerk",
   "what": "The melody of one and the beat of the other, replayed, not sampled, on \"Planet Rock\".",
   "used_by": "Afrika Bambaataa and the Soulsonic Force, Cybotron",

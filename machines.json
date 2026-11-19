@@ -27,7 +27,7 @@
   "bits": "",
   "time": "",
   "known_for": "The 1984 successor to the Emulator.",
-  "source_url": "https://www.soundonsound.com/news/sos-podcast-emulator-ii-40th-anniversary"
+  "source_url": "https://en.wikipedia.org/wiki/E-mu_Emulator"
  },
  {
   "name": "Ensoniq Mirage",
@@ -60,6 +60,16 @@
   "source_url": "https://www.rossum-electro.com/pages/education-sp-1200"
  },
  {
+  "name": "Casio SK-1",
+  "maker": "Casio",
+  "year": "1985",
+  "price": "under $100",
+  "bits": "8-bit, 9.38 kHz",
+  "time": "1.4 seconds",
+  "known_for": "A toy-priced sampling keyboard with a built-in microphone that became a circuit-bending standard.",
+  "source_url": "https://factmag.com/2016/09/15/15-samplers-that-shaped-modern-music"
+ },
+ {
   "name": "Akai S900",
   "maker": "Akai",
   "year": "1986",
@@ -88,6 +98,16 @@
   "time": "750 KB, expandable to 2,250 KB; 9.89 seconds at 48 kHz",
   "known_for": "Its time-stretch, from 1% to 999%, became part of the sound of 1990s jungle.",
   "source_url": "https://www.muzines.co.uk/articles/akai-s950/1372"
+ },
+ {
+  "name": "Akai S1000",
+  "maker": "Akai",
+  "year": "1988",
+  "price": "",
+  "bits": "16-bit, 44.1 kHz stereo",
+  "time": "2 MB, expandable to 8 MB",
+  "known_for": "Moved the Akai S-series to 16-bit stereo.",
+  "source_url": "https://factmag.com/2016/09/15/15-samplers-that-shaped-modern-music"
  },
  {
   "name": "Akai MPC60",
@@ -198,25 +218,5 @@
   "time": "64 MB at launch; 128 MB standard from January 2026",
   "known_for": "A 12-pad sampler with 999 sample slots at a $299 launch price.",
   "source_url": "https://cdm.link/2023/11/ep-133-ko-ii/"
- },
- {
-  "name": "Akai S1000",
-  "maker": "Akai",
-  "year": "",
-  "price": "",
-  "bits": "16-bit, 44.1 kHz stereo",
-  "time": "2 MB, expandable to 8 MB",
-  "known_for": "Moved the Akai S-series to 16-bit stereo.",
-  "source_url": "https://www.perfectcircuit.com/signal/akai-s-series-samplers"
- },
- {
-  "name": "Casio SK-1",
-  "maker": "Casio",
-  "year": "",
-  "price": "under $100",
-  "bits": "8-bit, 9.38 kHz",
-  "time": "1.4 seconds",
-  "known_for": "A toy-priced sampling keyboard with a built-in microphone that became a circuit-bending standard.",
-  "source_url": "https://www.musicradar.com/news/blast-from-the-past-casio-sk-1"
  }
 ]

@@ -101,10 +101,10 @@
    "Yes, in the US",
    "Yes, in the EU",
    "Only for drums",
-   "No country has one"
+   "No"
   ],
   "answer": 3,
-  "why": "It is folklore. No statute or court sets a safe number of seconds.",
+  "why": "It is folklore. The US Copyright Office calls the seven-second version fiction and says there is no formula.",
   "section": "law"
  },
  {

@@ -1,6 +1,6 @@
 ## The machines
 
-**The short version:** A sampler is a digital recorder you can play like an instrument: it measures a sound thousands of times a second, stores the numbers and reads them back at whatever pitch you ask for.[^mac-izotope-basics] The first commercial one, the Fairlight CMI of 1979, was an 8-bit computer with a light pen and a five-figure price in pounds.[^mac-120years-fairlight][^mac-museumsvic-fairlight] Eight years later a drum box with 10 seconds of 12-bit memory was setting the sound of hip-hop, and its flaws were kept on purpose when the maker reissued it in 2021.[^mac-rossum-sp1200]
+**The short version:** A sampler is a digital recorder you can play like an instrument: it measures a sound thousands of times a second, stores the numbers and reads them back at whatever pitch you ask for.[^mac-izotope-basics] The first commercial one, the Fairlight CMI of 1979, was an 8-bit computer with a light pen and a five-figure price in pounds.[^mac-120years-fairlight][^mac-museumsvic-fairlight] Eight years later a drum box with 10 seconds of 12-bit memory was setting the sound of hip-hop, and its flaws were kept on purpose when its designer reissued it in 2021.[^mac-rossum-sp1200]
 
 ### How does a sampler work?
 
@@ -33,7 +33,7 @@ E-mu's Emulator followed in 1981 and sold about 500 units before it was dropped 
 
 ### When did samplers get cheap?
 
-In 1984 the Ensoniq Mirage went on sale at $1,695, when an Emulator ran about $8,000.[^mac-reverb-ensoniq] Ensoniq had been founded by three former Commodore engineers, Bruce Crockett, Al Charpentier and Bob Yannes.[^mac-reverb-ensoniq] Cheap came with conditions: Hank Shocklee, who made early Public Enemy records on a Mirage, remembered having about three seconds of sample time.[^mac-reverb-ensoniq]
+In 1984 the Ensoniq Mirage went on sale at $1,695, when an Emulator ran about $8,000.[^mac-reverb-ensoniq] Ensoniq had been founded by three former Commodore engineers, Bruce Crockett, Al Charpentier and Bob Yannes.[^mac-reverb-ensoniq] Cheap came with conditions: Hank Shocklee, who built the first version of Public Enemy's "Rebel Without a Pause" on a Mirage, remembered having about three seconds of sample time.[^mac-reverb-ensoniq]
 
 The floor dropped further with the Casio SK-1, a toy-sized keyboard that sold for under $100. It had a built-in microphone, four voices, 8-bit sound and 1.4 seconds of sampling, enough for one word or one dog bark. It later became a standard choice for circuit bending.[^mac-musicradar-sk1]
 
@@ -41,11 +41,11 @@ The floor dropped further with the Casio SK-1, a toy-sized keyboard that sold fo
 
 Because it is a 12-bit machine sampling at 26.04 kHz, and because of what happens when it changes pitch. Dave Rossum designed it.[^mac-rossum-sp1200] Half of 26.04 kHz is 13.02 kHz, so the top of the record is gone before the drums ever reach a pad. Re-tuning a sound on the SP-1200 adds what Rossum's company calls "aliasing and imaging artifacts", and the company kept them on purpose in its reissue.[^mac-rossum-sp1200] The Village Voice called the result "gritty 12-bit sound quality" and credited the machine for crunchy drums, choppy samples and murky filtered basslines.[^mac-voice-sp1200] The producer Ski put it in two words: "so dirty."[^mac-voice-sp1200]
 
-The E-mu SP-12 came first, in 1985, and the SP-1200 replaced it in 1987.[^mac-rossum-sp1200] The US launch prices in circulation, $2,745 and $2,995, come from Wikipedia alone; Sound On Sound's October 1987 review listed the SP-1200 in Britain at £2,199 including VAT.[^mac-wiki-sp1200][^gfa-sos-sp1200-1987] The SP-1200 held 10 seconds of sound in total, and no single sound could run longer than 2.5 seconds, because of what RAM cost in 1987.[^mac-rossum-sp1200] The Village Voice, citing the manufacturer, makes it 10.07 seconds; Hank Shocklee, from memory, said 12.[^mac-voice-sp1200] Its eight outputs are not alike either: channels 1 and 2 pass through SSM2044 filters, 3 to 6 have fixed filters, and 7 and 8 have none.[^mac-rossum-sp1200]
+The E-mu SP-12 came first, in 1985, and the SP-1200 replaced it in 1987.[^mac-rossum-sp1200] The US launch prices in circulation, $2,745 and $2,995, come from Wikipedia alone; Sound On Sound's October 1987 review listed the SP-1200 in Britain at £2,199 including VAT.[^mac-wiki-sp1200][^gfa-sos-sp1200-1987] The SP-1200 held 10 seconds of sound in total, and no single sound could run longer than 2.5 seconds, because of what RAM cost in 1987.[^mac-rossum-sp1200][^mac-voice-sp1200] The Village Voice, citing the manufacturer, makes it 10.07 seconds; Hank Shocklee, from memory, said 12.[^mac-voice-sp1200] Its eight outputs are not alike either: channels 1 and 2 pass through dynamic SSM2044 filters, 3 to 6 have fixed filters, and 7 and 8 have none.[^mac-rossum-sp1200]
 
 Ten seconds is not much, so producers cheated. Shocklee again: "You take a 33 1/3 record and play it on 45, and you cheat the system."[^mac-voice-sp1200] The record goes in fast and high, and the pad is tuned back down afterward, one of the moves at [/making-a-flip/](/making-a-flip/). The arithmetic is friendly. 45 divided by 33 1/3 is 1.35, so 10 seconds of memory swallows about 13.5 seconds of record. Tuning the sound back down also lowers its effective sample rate, which is one more layer of dirt on a machine already known for it.
 
-Rossum Electro-Music sold a reissue from 2021 to 2025 at $3,999 with 20 seconds of memory, and closed the line with a 40th Anniversary Edition of 100 units at $4,999.[^mac-rossum-sp1200]
+Rossum Electro-Music sold a reissue from 2021 to 2025 at $3,999 with 20 seconds of memory, and closed the line with a 40th Anniversary Edition of 100 units at $4,999.[^mac-rossum-sp1200][^mac-wiki-sp1200]
 
 ### What did the Akai S900 and S950 add?
 

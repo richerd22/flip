@@ -16,7 +16,7 @@ The difference is who is playing. An **interpolation** takes part of an existing
 
 Two of the records most often filed under "early sampling" are mostly replays. No Kraftwerk recording is on "Planet Rock" (1982): the melody and the beat were copied by hand.[^his-sos-planetrock] The groove on the Sugarhill Gang's "Rapper's Delight" (1979) is a studio band playing Chic's "Good Times", though Nile Rodgers of Chic has said the strings came straight off his record.[^his-wp-rappers][^gfa-freshair-rodgers]
 
-The distinction has a price tag. A sample uses the recording and the song inside it. A replay uses only the song, and the US Copyright Office says an interpolation needs the permission of the song's owner and not the recording's owner, "even for a very similar 'sound alike' recording".[^his-usco-sampling] That is one permission fewer, which is not the same as none. Tracklib's version: "an interpolation is not a cover version so interpolations do need clearance."[^his-tracklib-myths]
+The distinction has a price tag. A sample uses the recording and the song inside it. A replay uses only the song, and the US Copyright Office says an interpolation needs a license from the song's owner and no permission from the recording's owner, "regardless of how similar the new recording may be to an old recording".[^his-usco-sampling] That is one permission fewer, which is not the same as none. Tracklib's version: "an interpolation is not a cover version so interpolations do need clearance."[^his-tracklib-myths]
 
 ### Is a remix the same as a sample?
 
@@ -65,6 +65,6 @@ A third complaint comes from the people on the old records. Gregory Coleman, who
 | One song's vocal over another song's music | Mashup | "The Grey Album"[^his-voice-grey] |
 | The vocal you know, on a beat you do not | Remix | A Jamaican "version" with a deejay toasting over it[^his-wp-dub] |
 | The whole song, start to finish, by a different act | Cover | Any wedding band |
-| A sampled-sounding riff that turns up in no database | Possibly original | Daft Punk say they played about half of what sounds sampled on "Discovery" (2001)[^his-wikiwand-discovery] |
+| A sampled-sounding riff that turns up in no database | Possibly original | Guy-Manuel de Homem-Christo has estimated that Daft Punk played half of what sounds sampled on "Discovery" (2001)[^his-wikiwand-discovery] |
 
 The gear is at [/machines/](/machines/), the drum breaks everybody uses at [/breaks/](/breaks/), the scenes country by country at [/world/](/world/), and what stem splitters and music generators are doing to all of it at [/ai/](/ai/).

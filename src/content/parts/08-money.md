@@ -16,7 +16,7 @@ Not everyone reads that as good news for musicians. The FADER's column on the ca
 
 No. Gregory "G.C." Coleman played [the break](/breaks/) on the Winstons' "Amen, Brother" in 1969, and the bandleader, Richard L. Spencer, held the copyright. Neither received royalties from its use on other people's records.[^mon-mixmag-amen-2015][^mon-wiki-amen] Spencer learned about the sampling in 1996, by which point the three-year limitation period had run out. Coleman died in 2006.[^gfa-theweek-amen-2015][^mon-wiki-amen]
 
-In 2015 two British DJs, Martyn Webster and Steve Theobald, organized a GoFundMe that paid Spencer.[^mon-mixmag-amen-2015] Mixmag put the total at £24,000.[^mon-mixmag-amen-2015] The BBC figure, as relayed by Wikipedia, is "more than £18,000," about $26,000, possibly an earlier count.[^mon-wiki-amen] It was a collection from fans, and no royalty came with it.
+In 2015 two British DJs, Martyn Webster and Steve Theobald, organized a GoFundMe that paid Spencer.[^mon-mixmag-amen-2015][^gfa-theweek-amen-2015] Mixmag put the total at £24,000.[^mon-mixmag-amen-2015] The BBC figure, as relayed by Wikipedia, is "more than £18,000," about $26,000, possibly an earlier count.[^mon-wiki-amen] It was a collection from fans, and no royalty came with it.
 
 ### Does George Clinton own the Parliament-Funkadelic samples?
 
@@ -28,13 +28,13 @@ Half the paperwork was done. "Bitter Sweet Symphony" (1997) uses a few seconds o
 
 ABKCO ended up with 100% of the publishing, including Richard Ashcroft's own writer share, and the credit became Jagger/Richards/Ashcroft. Billboard describes a dispute settled out of court; Rolling Stone describes a lawsuit from ABKCO's Allen Klein that resulted in Ashcroft handing over the royalties.[^mon-billboard-bss-2019][^mon-rs-bss-2019] Ashcroft's only publishing payment was a reported $1,000, as part of the settlement. By 2019 Billboard estimated the song had earned almost $5 million in publishing.[^mon-billboard-bss-2019]
 
-In April 2019 Mick Jagger and Keith Richards signed their share over to Ashcroft and dropped their credit. He announced it at the Ivor Novello Awards on May 23, 2019, calling it "a truly kind and magnanimous thing for them to do." ABKCO remains the publisher.[^mon-rs-bss-2019]
+In April 2019 Mick Jagger and Keith Richards signed their share over to Ashcroft and dropped their credit. He announced it at the Ivor Novello Awards on May 23, 2019, calling it "a truly kind and magnanimous thing for them to do."[^mon-rs-bss-2019] A month later ABKCO was still the song's sole publisher.[^mon-billboard-bss-2019]
 
 ### How much does Sting make from "I'll Be Missing You"?
 
 The figure everyone quotes is Sting's own. Puff Daddy's 1997 single used "Every Breath You Take" without clearing it first, and in a 2018 Breakfast Club interview Sting said Combs had agreed to pay him $2,000 a day. In April 2023 Combs replied "5K a day" on social media, then said he was joking.[^mon-mbw-sting-2023]
 
-Sting has said the proceeds put "a couple of my kids through college."[^mon-afrotech-sting-2023] One outlet says he was awarded 100% of the royalties through a lawsuit; that is unconfirmed, and Music Business Worldwide's account of the same story mentions no suit.[^mon-afrotech-sting-2023][^mon-mbw-sting-2023] Universal Music Publishing Group bought his catalog in 2022.[^mon-mbw-sting-2023] Sting's "Shape of My Heart" turned up again under Juice WRLD's "Lucid Dreams" in 2018, where his share of the publishing has been reported, secondhand, as 85%.[^mon-symphonic-2026]
+Sting has said the proceeds put "a couple of my kids through college."[^mon-afrotech-sting-2023] One outlet says he was awarded 100% of the royalties through a lawsuit; that is unconfirmed, and Music Business Worldwide's account of the same story mentions no suit.[^mon-afrotech-sting-2023][^mon-mbw-sting-2023] Universal Music Publishing Group bought his catalog in 2022.[^mon-mbw-sting-2023] Sting's "Shape of My Heart" turned up again under Juice WRLD's "Lucid Dreams" in 2018, where his share of the publishing has been reported, secondhand, as 85%.[^mon-symphonic-2026][^mon-mbw-sting-2023]
 
 ### Why did Olivia Rodrigo add songwriters to "Sour"?
 
@@ -68,7 +68,7 @@ Mannis-Gardner contrasts that with "Paul's Boutique": Capitol/Universal and the 
 
 ### Are Splice samples really royalty-free?
 
-Yes, in the sense Splice defines, and that sense is narrower than "yours." Every downloaded sound comes with a **royalty-free**, non-exclusive, perpetual license that survives canceling the subscription. No credit is required and sync use is allowed.[^mon-splice-faq] The track you make belongs to you; the sound does not: "you do not own exclusive rights to the actual Sounds."[^mon-splice-faq]
+Yes, in the sense Splice defines, and that sense is narrower than "yours." Its licensing FAQ says every downloaded sound comes with a **royalty-free**, non-exclusive, perpetual license that survives canceling the subscription, that no credit to Splice or the sample's creator is required, and that it places no restriction on sync use.[^mon-splice-faq] By the same terms the finished track belongs to the person who made it and the sound does not: "you do not own exclusive rights to the actual Sounds."[^mon-splice-faq]
 
 The license stops short of several things. It does not let a buyer pass the sounds on as samples or loops, sublicense them in isolation even after modifying them, put them in a competing pack, use the creator's name or likeness without written permission, or train AI on them.[^mon-splice-faq] And because thousands of people hold the same loop, Splice says it "can't guarantee" a track will not be flagged by Content ID; it issues a certified license, covering up to 25 samples, for disputing a claim.[^mon-splice-faq]
 
@@ -76,7 +76,7 @@ The company behind that FAQ was founded in 2013 and is large. In 2025, sources t
 
 ### How is Tracklib different from Splice?
 
-Splice sells sounds made to be used. Tracklib sells pieces of real records with the paperwork attached. The Swedish service launched in April 2018 with original recordings at $1.99 a track, a release license of $50 to $2,500, and a revenue share of 2% to 50% depending on how long the sample runs, by press accounts of the launch.[^mon-ddt-tracklib-2018] Sample length is counted once, however many times the loop repeats.[^mon-ddt-tracklib-2018] It raised a reported $1.7 million in 2019 in a round led by Sony Innovation Fund and WndrCo, and moved to subscriptions in May 2020 at $5.99, $13.99 and $29.99 a month.[^mon-hypebot-tracklib-2019][^mon-musicradar-tracklib-2020]
+Splice sells sounds made to be used. Tracklib sells pieces of real records with the paperwork attached. The Swedish service launched in April 2018 with original recordings at $1.99 a track, a release license of $50 to $2,500, and a revenue share of 2% to 50% depending on how long the sample runs, by press accounts of the launch.[^mon-ddt-tracklib-2018] It raised a reported $1.7 million in 2019 in a round led by Sony Innovation Fund and WndrCo, and moved to subscriptions in May 2020 at $5.99, $13.99 and $29.99 a month.[^mon-hypebot-tracklib-2019][^mon-musicradar-tracklib-2020]
 
 Today its licensing page bundles "Sample clearance with no upfront fee" into its Create plan in exchange for "a small percentage of any potential income," without stating the percentage, and describes its own loops as "100% royalty-free."[^mon-tracklib-licensing] In February 2025 it added a model for labels: a lower record royalty in exchange for a higher upfront fee, so the sample deal fits an existing artist contract.[^mon-tracklib-bespoke-2025]
 
@@ -90,7 +90,7 @@ Beat stores work on similar fine print. The Copyright Office warns that "lease,"
 
 ### Will a distributor release a song with an uncleared sample?
 
-DistroKid distributes covers, but it "cannot approve" samples of other songs, and stores do not allow another artist's stem or sample without permission.[^mon-distrokid-samples] Royalty-free sounds from Splice, Loopcloud and DAW libraries are fine to release. A track built on them is ineligible for DistroKid's YouTube Content ID add-on, though, since nobody can claim exclusive ownership of audio that thousands of people share.[^mon-distrokid-samples]
+DistroKid distributes covers, but its help page says "we cannot help approve the use of samples from other songs" and that stores do not allow another artist's stem or sample without permission.[^mon-distrokid-samples] The same page accepts royalty-free samples from Splice, Loopcloud and the libraries that ship with a DAW, and says a track built on them is ineligible for DistroKid's YouTube Content ID add-on.[^mon-distrokid-samples]
 
 TuneCore files samples, interpolations, remixes, mixtapes and mashups under one rule. A release that uses a recording you did not make needs a master use license from that recording's owner, and its help page is blunt about the rest: you "cannot distribute any content through TuneCore if you do not have 100% of the rights to that content."[^gfa-tunecore-samples]
 

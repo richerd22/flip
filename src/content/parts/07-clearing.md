@@ -1,10 +1,10 @@
 ## How to clear a sample
 
-**The short version:** A sample needs two yeses, one from whoever owns the recording and one from whoever owns the song, and there is no rate card or central office for either. Each owner names a price - usually a fee up front plus a share of the new track - and any of them is free to say no. Clearing after release is the expensive way round. Re-recording the part instead of lifting it drops the recording owner from the deal, and since about 2021 the companies that own old songs have been pitching that route themselves.
+**The short version:** A sample needs two yeses, one from whoever owns the recording and one from whoever owns the song, and there is no rate card or central office for either. Each owner names a price - usually a fee up front plus a share of the new track - and any of them is free to say no. Clearing after release is the expensive way round. Re-recording the part instead of lifting it drops the recording owner from the deal, by the US Copyright Office's account, and since about 2021 the companies that own old songs have been pitching that route themselves.
 
 ### What permissions does a sample need?
 
-A sample normally needs a license for the **master** (the specific recording) and a second license for the **publishing** (the song underneath it), and the owners are often different from each other and from the artist on the sleeve.[^mon-spotify-2019] The US Copyright Office's handout for musicians puts it in government prose: a sample "usually" needs the sound recording owner's permission and "often" the musical work owner's too.[^mon-usco-2021]
+A sample normally needs a license for the **master** (the specific recording) and a second license for the **publishing** (the song underneath it), and the owners are often different from each other and from the artist on the sleeve.[^mon-spotify-2019] The US Copyright Office's handout for musicians puts it in government prose: licenses from both the sound recording's owner and the musical work's owner, "which in many cases can be different", "may be necessary".[^mon-usco-2021]
 
 ### How does sample clearance work, step by step?
 
@@ -19,7 +19,7 @@ Deborah Mannis-Gardner, who runs the firm DMG Clearances, describes the job in s
 5. Confirmation letters go out, along with release and billing details and the license requests.
 6. It is finished when every party has signed and been paid.
 
-In between, the client goes over each quote with a manager, an attorney or the label before anything is papered.[^mon-audiomack-guide] Mannis-Gardner's own summary of the work is "a lot of groveling and begging."[^mon-okp-dmg-2019]
+In between, the client goes over each quote with a manager, an attorney or the label before anything is papered.[^mon-audiomack-guide]
 
 ### What do the owners ask for?
 
@@ -27,7 +27,7 @@ A quote usually has two parts: a one-time fee and an ongoing royalty.[^mon-perfo
 
 Scope gets negotiated as well. Approvals from major labels and publishers typically cover records and one promo video; a compilation, a film or a TV placement means going back for a fresh approval. DMG asks for "all audio configurations in perpetuity and worldwide" to avoid that second trip.[^mon-spotify-2019]
 
-For documentaries, Mannis-Gardner uses **most favored nations** terms - every owner gets the same rate, so nobody can hold out for more than the next party - and says big feature films accept that less often.[^mon-okp-dmg-2019] She has also changed how her firm structures deals, because older sample agreements were built around mechanical royalties from downloads and physical formats, and both are shrinking.[^mon-okp-dmg-2019]
+For documentaries, Mannis-Gardner uses **most favored nations** terms - every owner gets the same rate, so nobody can hold out for more than the next party. Getting there takes "a lot of groveling and begging," she says, and big feature films accept it less often.[^mon-okp-dmg-2019] She has also changed how her firm structures deals, because older sample agreements were built around mechanical royalties from downloads and physical formats, and both are shrinking.[^mon-okp-dmg-2019]
 
 ### How much does it cost to clear a sample?
 
@@ -63,7 +63,7 @@ Dr. Dre's team spent about two years negotiating an interpolation for "The Defia
 
 ### Why do sample requests get refused?
 
-Because an owner is allowed to. Mannis-Gardner names Prince, while he was alive, and Anita Baker as artists who did not permit sampling at all.[^mon-okp-dmg-2019] Often the publisher and label are willing and it is the writer's or artist's personal consent that stops the deal.[^mon-okp-dmg-2019] During COVID her firm's denial rate rose to roughly 9% to 10%, the highest in its history by her account.[^mon-audiomack-guide]
+Because an owner is allowed to. Mannis-Gardner names Prince, while he was alive, and Anita Baker as artists who did not permit sampling at all.[^mon-okp-dmg-2019] Often the publisher and label are willing and it is the writer's or artist's personal consent that stops the deal.[^mon-audiomack-guide] During COVID her firm's denial rate rose to roughly 9% to 10%, the highest in its history by her account.[^mon-audiomack-guide]
 
 A yes from the wrong party is worth nothing. Car Seat Headrest's label recalled and destroyed physical copies of an album after the songwriter behind a sampled Cars song declined to approve it; the publisher that had said yes turned out not to hold approval rights for the US. The band wrote a replacement song.[^mon-performer-2018]
 
@@ -75,11 +75,11 @@ The standard cautionary case is Grand Upright v. Warner Bros. Records (1991), th
 
 ### What is an interpolation?
 
-An **interpolation** takes part of an existing song and re-records it from scratch, without touching the original audio. The Copyright Office says it needs the permission of the musical work's owner and not the sound recording's owner, "even for a very similar 'sound alike' recording."[^mon-usco-2021] One negotiation instead of two.
+An **interpolation** takes part of an existing song and re-records it from scratch, without touching the original audio. The Copyright Office says it may need a license from the musical work's owner and needs no permission from the sound recording's owner, "regardless of how similar the new recording may be to an old recording."[^mon-usco-2021] One negotiation instead of two.
 
-A **replay** is the studio-grade version of the same move: a new recording built to match the sampled passage so closely that the original master is never used. It is a small trade with its own specialists. Replay Heaven, in the UK, says it has been "recreating existing recordings with extraordinary accuracy" for more than a quarter of a century and lists Clipse, John Summit, Rudimental and James Hype among its credits.[^mon-replayheaven] Scorccio, run by the producer Mark Summers, says it has worked since 1999 and gives its output as 5,000-plus replays on one page of its site and 6,000-plus on another.[^mon-scorccio-faq] Neither company publishes prices.[^mon-replayheaven][^mon-scorccio-faq]
+A **replay** is the studio-grade version of the same move: a new recording built to match the sampled passage so closely that the original master is never used. It is a small trade with its own specialists. Replay Heaven says it has been "recreating existing recordings with extraordinary accuracy" for more than a quarter of a century and lists Clipse, John Summit, Rudimental and James Hype among its credits.[^mon-replayheaven] Scorccio, run by the producer Mark Summers, says it has worked since 1999 and gives its output as 5,000-plus replays in one place on its site and 6,000-plus in another.[^mon-scorccio-faq] Neither company publishes prices.[^mon-replayheaven][^mon-scorccio-faq]
 
-A replay does not remove the song. Scorccio's own FAQ treats a replay as a cover version for master purposes and says the publishing still has to be cleared.[^mon-scorccio-faq] Clearance agents make the same point from the other side: replay the part without the publisher's permission and takedown notices can still arrive.[^mon-audiomack-guide]
+A replay does not remove the song. Scorccio's own FAQ treats a replay as a cover version for master purposes and says the publishing still has to be cleared.[^mon-scorccio-faq] Mannis-Gardner makes the same point from the other side: she has had takedown notices over tracks whose makers thought they had changed the original enough.[^mon-audiomack-guide]
 
 ### Why are there so many interpolations now?
 
@@ -96,20 +96,20 @@ Tracklib, which sells sample licenses and so has a stake in the answer, counted 
 | 2021 | 14% | Company research[^mon-tracklib-sos-2021] |
 | 2022 | 17% | Company research[^mon-tracklib-sos-2022] |
 
-Tracklib says it could only count what its authors could identify, so the real numbers may be higher.[^mon-tracklib-sos-2021] Its 2022 report also found the 2000s passing the 1990s as the most-sampled decade and R&B passing hip-hop as the most-sampled genre, a first in its records going back to 2008.[^mon-tracklib-sos-2022] The analyst Colin Munroe, who tracks every Hot 100 song, charts a spike in interpolations in 2022 and a pullback afterward, which he reads as a dip in a longer climb.[^mon-munroe-2025]
+Tracklib counted from January to late November and looked only at charting hits, and says the figures do not stand for sampling as a whole.[^mon-tracklib-sos-2021] Its 2022 report also found the 2000s passing the 1990s as the most-sampled decade and R&B passing hip-hop as the most-sampled genre, a first in its records going back to 2008.[^mon-tracklib-sos-2022] The analyst Colin Munroe, who tracks every Hot 100 song, charts a spike in interpolations in 2022 and a pullback afterward, which he reads as a dip in a longer climb.[^mon-munroe-2025]
 
 ### Can you clear a sample yourself?
 
-The steps are letters, quotes and signatures, and the attorney Karl Fowlkes's 2026 walkthrough is addressed to artists sending the request themselves.[^mon-symphonic-2026] A distributor will not do it: DistroKid says it "cannot approve" samples of other songs.[^mon-distrokid-samples] What follows is what clearance agents, Fowlkes and the US Copyright Office tell people doing this for the first time. It is general information, and none of it is legal advice.
+The steps are letters, quotes and signatures. The attorney Karl Fowlkes's 2026 walkthrough is written for artists who mean to send the request themselves, though he expects most will end up hiring a lawyer.[^mon-symphonic-2026] Kuge's advice is that artists should not try it alone.[^mon-spotify-2019] A distributor will not do it: DistroKid says "we cannot help approve the use of samples from other songs".[^mon-distrokid-samples] What follows is what clearance agents, Fowlkes and the US Copyright Office tell people doing this for the first time. It is general information, and none of it is legal advice.
 
 - **The source, noted the day it is sampled.** Song, artist, label, where in the track, how long. Mannis-Gardner's reason: "A lot of producers create beats and then they forget where they got the sample from."[^mon-spotify-2019]
-- **Two permissions.** Agents and the Copyright Office both say a friend in the band saying yes is not a license, and there may be other owners.[^mon-spotify-2019][^mon-usco-2021]
-- **No seconds rule.** The Copyright Office labels the belief that seven seconds or less is always fair use as fiction, in capitals, and says "there is no formula." A "no infringement intended" disclaimer does nothing, and only a court decides fair use.[^mon-usco-2021]
+- **Two permissions.** The Copyright Office treats the song and the recording as separate works, often separately owned. Kuge says a friend's verbal yes would not hold up in court, and that there may be owners the friend does not know about.[^mon-spotify-2019][^mon-usco-2021]
+- **No seconds rule.** The Copyright Office labels the belief that seven seconds or less is always fair use as fiction, in capitals, and says "there is no formula." It calls "no infringement intended" disclaimers an internet myth and says only a court can determine fair use.[^mon-usco-2021]
 - **The ask comes before release, upload or sale of the beat.** Afterward, the agents say, the leverage is gone and the owner can have the song pulled.[^mon-spotify-2019]
 - **An early start and a fallback.** Owners refuse. Kuge allows at least a couple of months, and Mannis-Gardner has seen it pass a year.[^mon-spotify-2019][^mon-performer-2018]
 - **Plain facts for the owners.** Fowlkes's list is artist, song, what was used, how much, where it sits in the new track and what kind of release.[^mon-symphonic-2026]
 - **Everything in writing.** Fowlkes and the agents want fee, splits, credit and permitted uses on paper, with a check on whether video, sync and compilations are included.[^mon-symphonic-2026][^mon-spotify-2019]
-- **A replay removes the master and leaves the song.** The publisher still has to agree, say the Copyright Office and a replay studio alike.[^mon-usco-2021][^mon-scorccio-faq]
+- **A replay removes the master and leaves the song.** That is how the Copyright Office and a replay studio both describe it: the song's owner still has to license it.[^mon-usco-2021][^mon-scorccio-faq]
 - **A cover is a different animal.** In the US, the Copyright Office explains, a straight cover of a released song can go through the statutory mechanical license, provided the arrangement leaves the basic melody and character alone. That license grants nothing in anyone's recording.[^mon-usco-2021]
 - **Cleared material, if the quote is out of reach.** Mannis-Gardner points producers who cannot afford clearance to Tracklib and Splice,[^mon-okp-dmg-2019] both covered in [/money/](/money/).
 - **Bought beats and their agreements.** The Copyright Office suggests asking whether the beat contains samples or interpolations and whether they were cleared for the buyer's use.[^mon-usco-2021]

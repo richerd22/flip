@@ -37,7 +37,7 @@
   "bits": "",
   "time": "",
   "known_for": "The 1984 successor to the Emulator.",
-  "source_url": "https://www.soundonsound.com/news/sos-podcast-emulator-ii-40th-anniversary"
+  "source_url": "https://en.wikipedia.org/wiki/E-mu_Emulator"
  },
  {
   "name": "Ensoniq Mirage",
@@ -92,12 +92,12 @@
  {
   "name": "Akai S1000",
   "maker": "Akai",
-  "year": "",
+  "year": "1988",
   "price": "",
   "bits": "16-bit, 44.1 kHz stereo",
   "time": "2 MB, expandable to 8 MB",
   "known_for": "Moved the Akai S-series to 16-bit stereo.",
-  "source_url": "https://www.perfectcircuit.com/signal/akai-s-series-samplers"
+  "source_url": "https://factmag.com/2016/09/15/15-samplers-that-shaped-modern-music"
  },
  {
   "name": "Akai MPC60",
@@ -142,12 +142,12 @@
  {
   "name": "Casio SK-1",
   "maker": "Casio",
-  "year": "",
+  "year": "1985",
   "price": "under $100",
   "bits": "8-bit, 9.38 kHz",
   "time": "1.4 seconds",
   "known_for": "A toy-priced sampling keyboard with a built-in microphone that became a circuit-bending standard.",
-  "source_url": "https://www.musicradar.com/news/blast-from-the-past-casio-sk-1"
+  "source_url": "https://factmag.com/2016/09/15/15-samplers-that-shaped-modern-music"
  },
  {
   "name": "Boss SP-202 Dr. Sample",
