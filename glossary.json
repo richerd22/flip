@@ -1,0 +1,650 @@
+[
+ {
+  "term": "Advance (fee)",
+  "definition": "Money paid up front for permission to use a sample, separate from any ongoing royalty.",
+  "section": "clearing",
+  "source_url": "https://performermag.com/band-management/licensing/everything-you-need-to-know-about-clearing-music-samples/"
+ },
+ {
+  "term": "Aliasing",
+  "definition": "False lower tones created when sound above the Nyquist limit folds back down.",
+  "section": "machines",
+  "source_url": "https://mixdownmag.com.au/features/understanding-key-digital-audio-terms/"
+ },
+ {
+  "term": "Amen break",
+  "definition": "The four-bar drum solo by Gregory Coleman on the Winstons' \"Amen, Brother\" (1969), the drum loop under most jungle and drum and bass.",
+  "section": "history",
+  "source_url": "https://ukf.com/read/10-things-you-need-to-know-about-the-amen-break/"
+ },
+ {
+  "term": "Anti-aliasing filter",
+  "definition": "A low-pass filter that removes sound above the limit before it is converted.",
+  "section": "machines",
+  "source_url": "https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html"
+ },
+ {
+  "term": "Beat lease",
+  "definition": "A limited license to a producer's beat, which can carry stream caps and an expiry date.",
+  "section": "money",
+  "source_url": "https://copyright.gov/music-modernization/educational-materials/Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf"
+ },
+ {
+  "term": "Big beat",
+  "definition": "1990s style combining heavy breakbeats, acid-house synth loops, funk and rock samples and film or TV dialogue.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Big_beat"
+ },
+ {
+  "term": "Bit depth",
+  "definition": "How many loudness steps each measurement can use.",
+  "section": "machines",
+  "source_url": "https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html"
+ },
+ {
+  "term": "Boom bap",
+  "definition": "Hip-hop built on hard sampled kick and snare, usually lifted from vinyl and swung on an SP-1200 or MPC. The name imitates the drums.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Boom_bap"
+ },
+ {
+  "term": "Break",
+  "definition": "The drum-only stretch of a record that DJs and producers reuse.",
+  "section": "making-a-flip",
+  "source_url": "https://rockthebells.com/articles/ultimate-breaks-and-beats"
+ },
+ {
+  "term": "Catalog owner",
+  "definition": "A company that holds rights to existing songs or recordings, such as a label, publisher or investment-backed fund, and collects when they are sampled.",
+  "section": "money",
+  "source_url": "https://thefader.com/2023/10/12/how-venture-capital-changed-the-business-of-sampling"
+ },
+ {
+  "term": "Chipmunk soul",
+  "definition": "Hip-hop production built on sped-up, pitched-up vocal samples, named for Alvin and the Chipmunks.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Chipmunk_soul"
+ },
+ {
+  "term": "Chop",
+  "definition": "A recording cut into pieces and played back in a new order.",
+  "section": "what-sampling-is",
+  "source_url": "https://rockthebells.com/articles/ultimate-breaks-and-beats"
+ },
+ {
+  "term": "Chopped and screwed",
+  "definition": "DJ Screw's Houston technique of slowing records down and cutting them with skipped beats and scratching.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Chopped_and_screwed"
+ },
+ {
+  "term": "Chopping",
+  "definition": "Cutting a recording into pieces and replaying them in a new order.",
+  "section": "making-a-flip",
+  "source_url": "https://rockthebells.com/articles/ultimate-breaks-and-beats"
+ },
+ {
+  "term": "Circuit split",
+  "definition": "Two US federal appeals courts giving opposite answers to the same question. On sampling, the two are Bridgeport (Sixth Circuit, 2005) and VMG Salsoul (Ninth Circuit, 2016).",
+  "section": "law",
+  "source_url": "https://corporatecounselnow.com/music-sampling-has-tune-changed"
+ },
+ {
+  "term": "Clearance",
+  "definition": "Getting written permission from every owner of a sampled recording and song, ideally before release.",
+  "section": "clearing",
+  "source_url": "https://performermag.com/band-management/licensing/everything-you-need-to-know-about-clearing-music-samples/"
+ },
+ {
+  "term": "Clearance agent",
+  "definition": "A specialist who identifies the owners of a sample, negotiates with them and papers the deal.",
+  "section": "clearing",
+  "source_url": "https://guide.audiomack.com/getting-started/the-importance-of-clearing-samples"
+ },
+ {
+  "term": "Compulsory (mechanical) license",
+  "definition": "The US section 115 license to make and distribute recordings of a musical work, the route used for cover versions. Sample clearance has no equivalent and is a free negotiation.",
+  "section": "law",
+  "source_url": "https://copyright.gov/music-modernization/faq.html"
+ },
+ {
+  "term": "Content ID",
+  "definition": "YouTube's audio fingerprinting system. DistroKid says tracks built on shared royalty-free loops are ineligible for its Content ID add-on.",
+  "section": "money",
+  "source_url": "https://support.distrokid.com/hc/en-us/articles/360013648733-Uploading-Music-That-Contains-Sampling-From-Other-Songs"
+ },
+ {
+  "term": "Cover",
+  "definition": "A new recording of an existing song that leaves its basic melody and character unchanged.",
+  "section": "clearing",
+  "source_url": "https://copyright.gov/music-modernization/educational-materials/Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf"
+ },
+ {
+  "term": "Crate digging",
+  "definition": "Hunting through records for sample material.",
+  "section": "making-a-flip",
+  "source_url": "https://www.okayplayer.com/music/everything-you-need-to-know-about-sampling-2018.html"
+ },
+ {
+  "term": "De minimis",
+  "definition": "A taking so small the law ignores it. In the Ninth Circuit, one an average audience would not recognize.",
+  "section": "law",
+  "source_url": "https://www.loeb.com/zh-hans/insights/publications/2016/06/vmg-salsoul-llc-v-ciccone"
+ },
+ {
+  "term": "Dembow",
+  "definition": "The rhythm under reggaeton, usually traced to Steely & Clevie's 1989 'Fish Market' riddim and named after Shabba Ranks' 'Dem Bow'.",
+  "section": "world",
+  "source_url": "https://completemusicupdate.com/judge-says-dispute-over-reggaetons-defining-dembow-riddim-is-now-a-battle-of-the-experts-that-only-a-jury-can-resolve/"
+ },
+ {
+  "term": "Deposit copy",
+  "definition": "The sheet music lodged with the US Copyright Office. For songs under the 1909 Act it defines what the copyright covers.",
+  "section": "law",
+  "source_url": "https://www.authorsalliance.org/2025/06/23/bonds-beats-and-lawsuits-how-ed-sheeran-won/"
+ },
+ {
+  "term": "Digital replica",
+  "definition": "An AI-made imitation of a real person's voice or likeness, the subject of the US NO FAKES Act bill.",
+  "section": "ai",
+  "source_url": "https://blackburn.senate.gov/2026/5/technology/blackburn-coons-salazar-dean-colleagues-introduce-revised-version-of-no-fakes-act"
+ },
+ {
+  "term": "Dilla time",
+  "definition": "Dan Charnas's name for straight and swung feels sounding at once, by design.",
+  "section": "making-a-flip",
+  "source_url": "https://ethanhein.com/wp/2022/dilla-time/"
+ },
+ {
+  "term": "Discovery rule",
+  "definition": "The idea that the limitation clock starts when the owner learns of the infringement. The Supreme Court assumed it without deciding in Warner Chappell v. Nealy (2024).",
+  "section": "law",
+  "source_url": "https://www.loeb.com/en/insights/publications/2024/05/warner-chappell-music-inc-v-nealy"
+ },
+ {
+  "term": "Dub",
+  "definition": "A Jamaican remix of an existing track: vocal out, bass and drums forward, echo and reverb added.",
+  "section": "history",
+  "source_url": "https://en.wikipedia.org/wiki/Dub_music"
+ },
+ {
+  "term": "Dubplate",
+  "definition": "A one-off acetate disc cut for a sound system to play.",
+  "section": "history",
+  "source_url": "https://www.udiscovermusic.com/in-depth-features/reggae-origins-of-dub/"
+ },
+ {
+  "term": "Fair dealing",
+  "definition": "The UK's exceptions for listed purposes such as caricature, parody and pastiche. It asks whether more was taken than needed and whether the use competes with the original.",
+  "section": "law",
+  "source_url": "https://www.mishcon.com/news/the-pastiche-exception-in-copyright-law-what-recent-cases-mean-for-creators-and-for-ai"
+ },
+ {
+  "term": "Fair use",
+  "definition": "A US defense weighed case by case; the Copyright Office says there is no formula and only a court can decide it.",
+  "section": "clearing",
+  "source_url": "https://copyright.gov/music-modernization/educational-materials/Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf"
+ },
+ {
+  "term": "Flip",
+  "definition": "A sample changed enough to do a job its makers never planned.",
+  "section": "what-sampling-is",
+  "source_url": ""
+ },
+ {
+  "term": "Fragmented literal similarity",
+  "definition": "Exact copying of a small part of a work, as in sampling. The question becomes whether the part taken matters.",
+  "section": "law",
+  "source_url": "https://blogs.law.gwu.edu/mcir/?p=6002"
+ },
+ {
+  "term": "French touch (filter house)",
+  "definition": "1990s French house style that loops late-1970s and early-1980s disco samples under sweeping filter and phaser effects.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/French_house"
+ },
+ {
+  "term": "G-funk",
+  "definition": "Early-1990s West Coast rap style built on 1970s funk grooves, typically replayed by live musicians instead of sampled.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/G-funk"
+ },
+ {
+  "term": "Interpolation",
+  "definition": "Part of an existing song re-recorded from scratch without the original audio. The US Copyright Office says it needs the song owner's permission and not the recording owner's.",
+  "section": "clearing",
+  "source_url": "https://copyright.gov/music-modernization/educational-materials/Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf"
+ },
+ {
+  "term": "Interpolation (replay)",
+  "definition": "Re-performing part of an existing song instead of lifting the recording. It uses the composition only, so it needs publishing clearance and no master license.",
+  "section": "law",
+  "source_url": "https://www.tracklib.com/blog/sampling-myths"
+ },
+ {
+  "term": "Jersey club",
+  "definition": "Newark club style descended from Baltimore club: chopped samples, a triplet kick pattern and 808 bass.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Jersey_club"
+ },
+ {
+  "term": "Jungle",
+  "definition": "Breakbeat style built on the Amen break and other funk breaks, with basslines and vocal samples from dub, reggae and dancehall.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Jungle_music"
+ },
+ {
+  "term": "Layering",
+  "definition": "Stacking sounds, such as one sound's attack on another's sustain.",
+  "section": "making-a-flip",
+  "source_url": "https://www.musicradar.com/news/10-old-school-sampling-tricks-that-will-never-go-out-of-style"
+ },
+ {
+  "term": "Library music",
+  "definition": "Music made for broadcasters and film to license, never sold in shops.",
+  "section": "making-a-flip",
+  "source_url": "https://daily.redbullmusicacademy.com/2019/08/the-what-how-and-why-of-library-music"
+ },
+ {
+  "term": "Log drum",
+  "definition": "The electronic bass sound that is amapiano's signature, usually credited to the producer MDU aka TRP.",
+  "section": "world",
+  "source_url": "https://mixmag.net/read/amapiano-djs-pledge-money-creator-log-drum-mdu-aka-trp-news"
+ },
+ {
+  "term": "Loop",
+  "definition": "A section set to repeat; on early gear the repeat itself was audible.",
+  "section": "making-a-flip",
+  "source_url": "https://www.musicradar.com/news/10-old-school-sampling-tricks-that-will-never-go-out-of-style"
+ },
+ {
+  "term": "Loop kit",
+  "definition": "A library of original loops composed by a 'sample producer' for other producers to build beats on.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Hip-hop_production"
+ },
+ {
+  "term": "Mashup",
+  "definition": "A track that blends two or more existing songs, typically one song's vocal over another's instrumental.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Mashup_music"
+ },
+ {
+  "term": "Mask",
+  "definition": "A map of where one instrument sits in time and frequency, used to pull it out of a mix.",
+  "section": "making-a-flip",
+  "source_url": "https://www.izotope.com/en/learn/exploring-the-technology-that-makes-rx-7-music-rebalance-possible"
+ },
+ {
+  "term": "Master",
+  "definition": "The specific sound recording of a song, usually owned by a label or the artist. Sampling it needs its owner's permission.",
+  "section": "clearing",
+  "source_url": "https://artists.spotify.com/en/blog/the-dos-and-donts-of-sample-clearances"
+ },
+ {
+  "term": "Master license",
+  "definition": "Permission from the owner of the sound recording.",
+  "section": "law",
+  "source_url": "https://artists.spotify.com/blog/the-dos-and-donts-of-sample-clearances"
+ },
+ {
+  "term": "Master royalty",
+  "definition": "A percentage of the new recording's revenue paid to the owner of the sampled recording.",
+  "section": "clearing",
+  "source_url": "https://performermag.com/band-management/licensing/everything-you-need-to-know-about-clearing-music-samples/"
+ },
+ {
+  "term": "Merry-Go-Round",
+  "definition": "Kool Herc's name for cutting from break to break on two turntables.",
+  "section": "history",
+  "source_url": "https://www.history.com/this-day-in-history/august-11/hip-hop-is-born-at-a-birthday-party-in-the-bronx"
+ },
+ {
+  "term": "Moral rights",
+  "definition": "Personal rights to be credited and to object to distortion of a work or performance. Japan gives them to performers.",
+  "section": "law",
+  "source_url": "https://monolith.law/en/general-corporate/copyright-neighboring-rights-japan"
+ },
+ {
+  "term": "Most favored nations (MFN)",
+  "definition": "A deal term under which every owner gets terms as good as the best any other owner gets.",
+  "section": "clearing",
+  "source_url": "https://www.okayplayer.com/originals/interview-with-deborah-mannis-gardner-dmg-sampling-hip-hop.html"
+ },
+ {
+  "term": "Musical composition (publishing)",
+  "definition": "The song itself, music plus any lyrics, separate from any recording of it. Usually held by the songwriter or a publisher.",
+  "section": "law",
+  "source_url": "https://www.copyright.gov/circs/circ56a.pdf"
+ },
+ {
+  "term": "Musique concrète",
+  "definition": "Music composed from recorded real-world sounds, begun by Pierre Schaeffer in Paris in 1948.",
+  "section": "history",
+  "source_url": "https://en.wikipedia.org/wiki/Cinq_%C3%A9tudes_de_bruits"
+ },
+ {
+  "term": "Neighboring rights",
+  "definition": "Rights of performers and record producers that sit next to the author's copyright.",
+  "section": "law",
+  "source_url": "https://monolith.law/en/general-corporate/copyright-neighboring-rights-japan"
+ },
+ {
+  "term": "Non-exclusive",
+  "definition": "A license that leaves the seller free to license the same sound or beat to other people.",
+  "section": "money",
+  "source_url": "https://intercom.help/splice-b7a2d5b83f2e/en/articles/8652642-splice-sounds-licensing-faq"
+ },
+ {
+  "term": "Nyquist frequency",
+  "definition": "Half the sample rate; the highest pitch a digital system can capture.",
+  "section": "machines",
+  "source_url": "https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html"
+ },
+ {
+  "term": "Orchestra hit (ORCH5)",
+  "definition": "The Fairlight's stock stab of a full orchestra, taken from a recording of Stravinsky's \"Firebird\"; heard on \"Planet Rock\".",
+  "section": "history",
+  "source_url": "https://www.perfectcircuit.com/signal/fairlight-cmi-history"
+ },
+ {
+  "term": "Page R",
+  "definition": "The Fairlight Series II pattern sequencer.",
+  "section": "machines",
+  "source_url": "https://120years.net/fairlight-computer-music-instrument-peter-vogel-kim-ryrie-australia-1979/"
+ },
+ {
+  "term": "Pastiche",
+  "definition": "In EU law since the 2026 Pelham II ruling: a creation that evokes an existing work, is noticeably different from it, and engages with it in an objectively recognizable creative dialogue.",
+  "section": "law",
+  "source_url": "https://www.simkins.com/news/kraftwerk-revisited---cjeu-ruling-in-pelham-ii-clarifies-test-for-the-pastiche-exception"
+ },
+ {
+  "term": "Phonogram producer",
+  "definition": "The EU and Japanese legal term for whoever first fixes a recording, usually the label. Holds a right of its own in the recording.",
+  "section": "law",
+  "source_url": "https://cms.law/en/aut/legal-updates/no-hidden-tracks-cjeu-rules-that-pastiche-must-be-recognisable"
+ },
+ {
+  "term": "Plunderphonics",
+  "definition": "John Oswald's term, from a 1985 essay, for music made openly from existing recordings.",
+  "section": "world",
+  "source_url": "https://www.vice.com/en/article/john-oswald-copyright-interview"
+ },
+ {
+  "term": "Pre-1972 recordings",
+  "definition": "US recordings made before February 15, 1972, which had no federal protection until the Music Modernization Act of 2018.",
+  "section": "law",
+  "source_url": "https://www.everycrsreport.com/reports/LSB10181.html"
+ },
+ {
+  "term": "Preset",
+  "definition": "A factory rhythm or sound built into an instrument.",
+  "section": "breaks",
+  "source_url": "https://www.engadget.com/2015/12/04/casio-and-the-sleng-teng-riddim/"
+ },
+ {
+  "term": "Pro rata",
+  "definition": "Dividing a fee or percentage among owners in proportion to each one's stake.",
+  "section": "clearing",
+  "source_url": "https://blog.symphonic.com/2026/04/16/how-to-clear-a-sample/"
+ },
+ {
+  "term": "Publishing",
+  "definition": "The song itself, words, music and melody, owned by its writers and publishers, separate from any recording of it.",
+  "section": "clearing",
+  "source_url": "https://artists.spotify.com/en/blog/the-dos-and-donts-of-sample-clearances"
+ },
+ {
+  "term": "Publishing license",
+  "definition": "Permission from the owner of the composition.",
+  "section": "law",
+  "source_url": "https://artists.spotify.com/blog/the-dos-and-donts-of-sample-clearances"
+ },
+ {
+  "term": "Publishing share",
+  "definition": "The percentage of ownership in the new song that goes to the writers and publishers of the sampled song.",
+  "section": "clearing",
+  "source_url": "https://performermag.com/band-management/licensing/everything-you-need-to-know-about-clearing-music-samples/"
+ },
+ {
+  "term": "Quantization noise",
+  "definition": "The error left by rounding each measurement to the nearest loudness step.",
+  "section": "machines",
+  "source_url": "https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html"
+ },
+ {
+  "term": "Quantize",
+  "definition": "In a sequencer, snapping played notes to a timing grid; Roger Linn dates it to his 1979 LM-1.",
+  "section": "machines",
+  "source_url": "https://www.attackmagazine.com/features/interview/roger-linn-swing-groove-magic-mpc-timing/"
+ },
+ {
+  "term": "Remix",
+  "definition": "An existing recording with sounds added, changed or removed.",
+  "section": "what-sampling-is",
+  "source_url": "https://copyright.gov/music-modernization/educational-materials/Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf"
+ },
+ {
+  "term": "Replay",
+  "definition": "A new recording made to match a sampled passage closely, so the original master is not used. The publishing still has to be cleared.",
+  "section": "clearing",
+  "source_url": "https://www.scorccio.com/?p=12"
+ },
+ {
+  "term": "Resampling",
+  "definition": "Recording a sampler's own output back in as a new sample.",
+  "section": "making-a-flip",
+  "source_url": "https://reverb.com/news/history-of-ensoniq-samplers-mirage-eps-16-plus-asr-10"
+ },
+ {
+  "term": "Riddim",
+  "definition": "A Jamaican instrumental backing track made to be reused by many vocalists.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Reggaeton"
+ },
+ {
+  "term": "Royalty-free",
+  "definition": "A license with no further payments after the first. The sound is licensed for use in new tracks; the buyer does not own it.",
+  "section": "money",
+  "source_url": "https://intercom.help/splice-b7a2d5b83f2e/en/articles/8652642-splice-sounds-licensing-faq"
+ },
+ {
+  "term": "Sample",
+  "definition": "A piece of an existing recording placed in a new work. The word for the digital process is credited to the Fairlight's founders.",
+  "section": "what-sampling-is",
+  "source_url": "https://copyright.gov/music-modernization/educational-materials/Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf"
+ },
+ {
+  "term": "Sample drill",
+  "definition": "New York drill that puts a recognizable R&B, pop or rap sample over drill drums; Complex gave it the name in print in May 2022.",
+  "section": "world",
+  "source_url": "https://www.complex.com/music/sample-drill-taking-over-new-york-rap"
+ },
+ {
+  "term": "Sample rate",
+  "definition": "How many times a second the sound is measured.",
+  "section": "machines",
+  "source_url": "https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html"
+ },
+ {
+  "term": "Scratch sample",
+  "definition": "A sound chosen for scratching, such as the \"fresh\" line from \"Change the Beat\".",
+  "section": "breaks",
+  "source_url": "https://factmag.com/2016/09/10/most-sampled-song-of-all-time-beside-change-the-beat"
+ },
+ {
+  "term": "Sleng Teng",
+  "definition": "The 1985 riddim built on the \"rock\" preset of the Casio MT-40.",
+  "section": "breaks",
+  "source_url": "https://www.nippon.com/en/japan-topics/g02027/okuda-hiroko-the-casio-employee-behind-the-sleng-teng-riddim-that-revolutionized-reggae.html"
+ },
+ {
+  "term": "Slowed + reverb",
+  "definition": "Internet-era slowed remixes with added reverb, spread on YouTube; critics tie the style to chopped and screwed.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Chopped_and_screwed"
+ },
+ {
+  "term": "Song camp",
+  "definition": "A writing session organized by a publisher; some now start from old hits in the publisher's own catalog.",
+  "section": "clearing",
+  "source_url": "https://www.rollingstone.com/pro/features/olivia-rodrigo-doja-cat-interpolation-music-1220580/"
+ },
+ {
+  "term": "SongDNA",
+  "definition": "Spotify feature announced in November 2025 that maps a track's samples, covers and collaborators, drawing on WhoSampled; in beta for Premium subscribers from March 2026.",
+  "section": "world",
+  "source_url": "https://www.engadget.com/entertainment/streaming/spotifys-songdna-feature-will-show-you-which-songs-are-sampled-on-a-track-130050490.html"
+ },
+ {
+  "term": "Sound recording (master)",
+  "definition": "One fixed performance of a song. A separate copyright from the composition, usually held by a label or the artist.",
+  "section": "law",
+  "source_url": "https://www.copyright.gov/circs/circ56a.pdf"
+ },
+ {
+  "term": "Sound-alike",
+  "definition": "A recording made to resemble another one. It involves no master license, but the underlying song still needs permission.",
+  "section": "clearing",
+  "source_url": "https://copyright.gov/music-modernization/educational-materials/Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf"
+ },
+ {
+  "term": "Sped-up version",
+  "definition": "A faster, higher-pitched edit of a song; labels began releasing official ones in 2022 and 2023 after fan edits spread on TikTok.",
+  "section": "world",
+  "source_url": "https://www.theringer.com/2023/05/03/music/sped-up-songs-miguel-cults-summer-walker"
+ },
+ {
+  "term": "Statutory mechanical license",
+  "definition": "The US mechanism that lets a musician record a cover of a released song at a set rate. It grants nothing in anyone's recording.",
+  "section": "clearing",
+  "source_url": "https://copyright.gov/music-modernization/educational-materials/Sampling-Interpolations-Beat-Stores-and-More-An-Introduction-for-Musicians-Using-Preexisting.pdf"
+ },
+ {
+  "term": "Stem",
+  "definition": "One separated part of a mix: vocals, drums, bass or everything else.",
+  "section": "making-a-flip",
+  "source_url": "https://www.ableton.com/stem-separation-in-ableton-live/"
+ },
+ {
+  "term": "Stem separation",
+  "definition": "Software that splits a finished mix into vocals, drums, bass and other parts; the most common AI use producers reported in 2024 and 2026 surveys.",
+  "section": "ai",
+  "source_url": "https://www.musicbusinessworldwide.com/25-of-music-producers-are-now-using-ai-survey-says-but-a-majority-shows-strong-resistance/"
+ },
+ {
+  "term": "Substantial part",
+  "definition": "The UK infringement test: whether an important part of the work was taken, judged by quality as much as quantity.",
+  "section": "law",
+  "source_url": "https://www.wipo.int/en/web/wipo-magazine/articles/the-song-remains-the-same-a-review-of-the-legalities-of-music-sampling-37091"
+ },
+ {
+  "term": "Swing",
+  "definition": "Delaying every second 16th note; 50% is straight and 66% is a triplet.",
+  "section": "machines",
+  "source_url": "https://www.attackmagazine.com/features/interview/roger-linn-swing-groove-magic-mpc-timing/"
+ },
+ {
+  "term": "Tamborzão",
+  "definition": "The drum pattern that replaced the Volt Mix in 2000s funk carioca.",
+  "section": "breaks",
+  "source_url": "https://billboard.com.br/como-uma-faixa-obscura-virou-a-base-do-funk/"
+ },
+ {
+  "term": "Tape-replay keyboard",
+  "definition": "An instrument such as the Chamberlin or Mellotron in which each key plays a strip of pre-recorded tape for about eight seconds.",
+  "section": "history",
+  "source_url": "https://120years.net/tag/mellotron/"
+ },
+ {
+  "term": "Text and data mining (TDM) exception",
+  "definition": "The EU copyright exception AI developers rely on for training; the Munich court held it did not cover the memorized works in GEMA v. Suno.",
+  "section": "ai",
+  "source_url": "https://www.simmons-simmons.com/en/publications/cmszvaaz6003oug849s2sqawl/gema-v-suno-ai-key-eu-decision-on-ai-training-outputs-and-copyright"
+ },
+ {
+  "term": "Think break",
+  "definition": "The drum loop from Lyn Collins's \"Think (About It)\" (1972), played by Jabo Starks.",
+  "section": "breaks",
+  "source_url": "https://en.wikipedia.org/wiki/Yeah!_Woo!"
+ },
+ {
+  "term": "Time-stretch",
+  "definition": "Changing how long a sound lasts without changing its pitch.",
+  "section": "making-a-flip",
+  "source_url": "https://www.muzines.co.uk/articles/akai-s950/1372"
+ },
+ {
+  "term": "Toasting",
+  "definition": "A Jamaican deejay talking or chanting over a version.",
+  "section": "history",
+  "source_url": "https://en.wikipedia.org/wiki/Dub_music"
+ },
+ {
+  "term": "Transformative use",
+  "definition": "A use that gives the borrowed material a new purpose or message. Central to fair use since Campbell (1994); the Supreme Court revisited it in Warhol (2023).",
+  "section": "law",
+  "source_url": "https://www.bu.edu/jostl/files/2020/04/5.-Claflin.pdf"
+ },
+ {
+  "term": "Trip hop",
+  "definition": "Label coined in Mixmag in June 1994 for downtempo, sample-based records such as DJ Shadow's; Portishead's Geoff Barrow has said he hated it.",
+  "section": "world",
+  "source_url": "https://mixmag.net/feature/how-your-favourite-genre-got-its-name/60"
+ },
+ {
+  "term": "Type beat",
+  "definition": "An instrumental made in the style of a named artist and sold or leased online, often with non-exclusive rights.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Hip-hop_production"
+ },
+ {
+  "term": "Ultimate Breaks and Beats",
+  "definition": "A 25-LP series on Street Beat Records that put the best-known breaks on cheap compilations.",
+  "section": "breaks",
+  "source_url": "https://rockthebells.com/articles/ultimate-breaks-and-beats"
+ },
+ {
+  "term": "Vaporwave",
+  "definition": "Early-2010s internet genre made almost entirely of slowed-down samples of 1980s and 1990s smooth jazz, lounge and R&B.",
+  "section": "world",
+  "source_url": "https://en.wikipedia.org/wiki/Vaporwave"
+ },
+ {
+  "term": "Version",
+  "definition": "The instrumental or dub cut of a song, usually on the B-side of a Jamaican single.",
+  "section": "history",
+  "source_url": "https://www.udiscovermusic.com/in-depth-features/reggae-origins-of-dub/"
+ },
+ {
+  "term": "Vinyl Sim",
+  "definition": "The SP-303 effect that imitates a worn record.",
+  "section": "machines",
+  "source_url": "https://articles.roland.com/a-history-of-roland-samplers/"
+ },
+ {
+  "term": "Vocal stab",
+  "definition": "A short shouted or sung fragment used as a hit, like the two-word shout from \"Think (About It)\".",
+  "section": "breaks",
+  "source_url": "https://splice.com/blog/one-shots-lyn-collins/"
+ },
+ {
+  "term": "Volt Mix",
+  "definition": "The beat from DJ Battery Brain's 1988 Los Angeles 12-inch \"8 Volt Mix\" that became the base rhythm of 1990s funk carioca.",
+  "section": "history",
+  "source_url": "https://billboard.com.br/como-uma-faixa-obscura-virou-a-base-do-funk/"
+ },
+ {
+  "term": "Walled garden",
+  "definition": "A service whose AI outputs cannot be taken off the platform; the condition applied to Udio's existing product after its 2025 settlement with Universal.",
+  "section": "ai",
+  "source_url": "https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform"
+ },
+ {
+  "term": "Warping",
+  "definition": "Ableton's term for stretching audio so it follows the project tempo.",
+  "section": "machines",
+  "source_url": "https://www.musicradar.com/news/story-of-ableton-live-at-20"
+ }
+]

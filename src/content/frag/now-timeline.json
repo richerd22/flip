@@ -1,0 +1,107 @@
+[
+ {
+  "date": "1985",
+  "label": "Plunderphonics named",
+  "detail": "John Oswald coins the word, in an essay, for music made openly from other recordings.",
+  "source_url": "https://www.vice.com/en/article/john-oswald-copyright-interview",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1989",
+  "label": "'Fish Market' riddim",
+  "detail": "Steely & Clevie cut the Jamaican riddim that their lawsuit names as the source of reggaeton's dembow pattern.",
+  "source_url": "https://completemusicupdate.com/judge-says-dispute-over-reggaetons-defining-dembow-riddim-is-now-a-battle-of-the-experts-that-only-a-jury-can-resolve/",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1994-06",
+  "label": "'Trip hop' in print",
+  "detail": "Mixmag's Andy Pemberton uses the term for DJ Shadow's 'In/Flux'; Portishead's 'Dummy' follows later in the year.",
+  "source_url": "https://mixmag.net/feature/how-your-favourite-genre-got-its-name/60",
+  "era": "1992-2009"
+ },
+ {
+  "date": "2000",
+  "label": "'Since I Left You'",
+  "detail": "The Avalanches release their sample collage in Australia; it is usually put at more than 3,500 samples, and the 2001 international editions drop the ones that could not be cleared.",
+  "source_url": "https://mixdownmag.com.au/features/since-i-left-you-celebrating-20-years-of-the-avalanches-game-changing-debut/",
+  "era": "1992-2009"
+ },
+ {
+  "date": "2008",
+  "label": "WhoSampled launches",
+  "detail": "The user-submitted sample database goes live from London late in the year.",
+  "source_url": "https://direct.djmag.com/content/we-speak-whosampledcom",
+  "era": "1992-2009"
+ },
+ {
+  "date": "2014-07",
+  "label": "J Dilla's MPC goes to the Smithsonian",
+  "detail": "Maureen Yancey donates her son's MPC and custom Moog to the National Museum of African American History and Culture.",
+  "source_url": "https://www.smithsonianmag.com/smithsonian-institution/legacy-hip-hop-producer-j-dilla-will-be-recognized-among-collections-smithsonian-180952164/?no-ist",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-05-03",
+  "label": "Sample drill gets a name in print",
+  "detail": "Complex writes up New York drill built on recognizable R&B and pop samples.",
+  "source_url": "https://www.complex.com/music/sample-drill-taking-over-new-york-rap",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-04-18",
+  "label": "'Heart on My Sleeve' removed",
+  "detail": "The AI voice-clone track imitating Drake and The Weeknd is pulled from streaming services after 629,439 Spotify streams.",
+  "source_url": "https://www.myjoyonline.com/drake-and-the-weeknd-ai-generated-song-goes-viral-pulled-from-streaming-services/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2024-05-31",
+  "label": "An AI-generated sample is cleared",
+  "detail": "Complex reports that 'U My Everything' samples the Udio-generated 'BBL Drizzy', cleared by licensing only the human-written publishing.",
+  "source_url": "https://www.complex.com/music/a/cmplxtara-mahadevan/drake-sexyy-red-bbl-drizzy-artificial-intelligence",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-10-29",
+  "label": "Universal settles with Udio",
+  "detail": "The first of three label settlements with AI music generators, with licenses and a joint platform planned for 2026.",
+  "source_url": "https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-11-19",
+  "label": "Spotify buys WhoSampled",
+  "detail": "Price undisclosed; the database then lists 1.2 million songs and 622,000 samples (company figures).",
+  "source_url": "https://www.musicbusinessworldwide.com/spotify-acquires-song-sample-and-remix-database-whosampled/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-11-25",
+  "label": "Warner settles with Suno",
+  "detail": "Terms private; Suno agrees to launch licensed models and retire its current ones.",
+  "source_url": "https://www.musicbusinessworldwide.com/warner-music-group-settles-with-suno/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2026-07-31",
+  "label": "GEMA v. Suno",
+  "detail": "Munich Regional Court I rules largely for the German authors' society over six compositions; Suno appeals and the judgment is not final.",
+  "source_url": "https://www.simmons-simmons.com/en/publications/cmszvaaz6003oug849s2sqawl/gema-v-suno-ai-key-eu-decision-on-ai-training-outputs-and-copyright",
+  "era": "2010-now"
+ },
+ {
+  "date": "2026-09-01",
+  "label": "Dembow ruling",
+  "detail": "In Browne v. Clark the judge grants the defendants summary judgment on the selection-and-arrangement theory; other claims continue.",
+  "source_url": "https://www.digitalmusicnews.com/2026/09/01/bad-bunny-victory-in-reggaeton-lawsuit/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2026-09-18",
+  "label": "Universal and Sony sue Suno again",
+  "detail": "A second suit in Massachusetts federal court covers 60,202 recordings and Suno's v6 models, after a judge declined to add them to the 2024 case.",
+  "source_url": "https://www.musicbusinessworldwide.com/universal-and-sony-sue-suno-for-a-second-time-claiming-platforms-v6-models-are-the-fruit-of-the-same-poisoned-tree/",
+  "era": "2010-now"
+ }
+]

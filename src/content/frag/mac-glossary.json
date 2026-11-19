@@ -1,0 +1,140 @@
+[
+ {
+  "term": "Sample rate",
+  "definition": "How many times a second the sound is measured.",
+  "section": "machines",
+  "source_url": "https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html"
+ },
+ {
+  "term": "Bit depth",
+  "definition": "How many loudness steps each measurement can use.",
+  "section": "machines",
+  "source_url": "https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html"
+ },
+ {
+  "term": "Nyquist frequency",
+  "definition": "Half the sample rate; the highest pitch a digital system can capture.",
+  "section": "machines",
+  "source_url": "https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html"
+ },
+ {
+  "term": "Aliasing",
+  "definition": "False lower tones created when sound above the Nyquist limit folds back down.",
+  "section": "machines",
+  "source_url": "https://mixdownmag.com.au/features/understanding-key-digital-audio-terms/"
+ },
+ {
+  "term": "Anti-aliasing filter",
+  "definition": "A low-pass filter that removes sound above the limit before it is converted.",
+  "section": "machines",
+  "source_url": "https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html"
+ },
+ {
+  "term": "Quantization noise",
+  "definition": "The error left by rounding each measurement to the nearest loudness step.",
+  "section": "machines",
+  "source_url": "https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html"
+ },
+ {
+  "term": "Quantize",
+  "definition": "In a sequencer, snapping played notes to a timing grid; Roger Linn dates it to his 1979 LM-1.",
+  "section": "machines",
+  "source_url": "https://www.attackmagazine.com/features/interview/roger-linn-swing-groove-magic-mpc-timing/"
+ },
+ {
+  "term": "Swing",
+  "definition": "Delaying every second 16th note; 50% is straight and 66% is a triplet.",
+  "section": "machines",
+  "source_url": "https://www.attackmagazine.com/features/interview/roger-linn-swing-groove-magic-mpc-timing/"
+ },
+ {
+  "term": "Page R",
+  "definition": "The Fairlight Series II pattern sequencer.",
+  "section": "machines",
+  "source_url": "https://120years.net/fairlight-computer-music-instrument-peter-vogel-kim-ryrie-australia-1979/"
+ },
+ {
+  "term": "Vinyl Sim",
+  "definition": "The SP-303 effect that imitates a worn record.",
+  "section": "machines",
+  "source_url": "https://articles.roland.com/a-history-of-roland-samplers/"
+ },
+ {
+  "term": "Warping",
+  "definition": "Ableton's term for stretching audio so it follows the project tempo.",
+  "section": "machines",
+  "source_url": "https://www.musicradar.com/news/story-of-ableton-live-at-20"
+ },
+ {
+  "term": "Dilla time",
+  "definition": "Dan Charnas's name for straight and swung feels sounding at once, by design.",
+  "section": "making-a-flip",
+  "source_url": "https://ethanhein.com/wp/2022/dilla-time/"
+ },
+ {
+  "term": "Chopping",
+  "definition": "Cutting a recording into pieces and replaying them in a new order.",
+  "section": "making-a-flip",
+  "source_url": "https://rockthebells.com/articles/ultimate-breaks-and-beats"
+ },
+ {
+  "term": "Loop",
+  "definition": "A section set to repeat; on early gear the repeat itself was audible.",
+  "section": "making-a-flip",
+  "source_url": "https://www.musicradar.com/news/10-old-school-sampling-tricks-that-will-never-go-out-of-style"
+ },
+ {
+  "term": "Break",
+  "definition": "The drum-only stretch of a record that DJs and producers reuse.",
+  "section": "making-a-flip",
+  "source_url": "https://rockthebells.com/articles/ultimate-breaks-and-beats"
+ },
+ {
+  "term": "Time-stretch",
+  "definition": "Changing how long a sound lasts without changing its pitch.",
+  "section": "making-a-flip",
+  "source_url": "https://www.muzines.co.uk/articles/akai-s950/1372"
+ },
+ {
+  "term": "Resampling",
+  "definition": "Recording a sampler's own output back in as a new sample.",
+  "section": "making-a-flip",
+  "source_url": "https://reverb.com/news/history-of-ensoniq-samplers-mirage-eps-16-plus-asr-10"
+ },
+ {
+  "term": "Layering",
+  "definition": "Stacking sounds, such as one sound's attack on another's sustain.",
+  "section": "making-a-flip",
+  "source_url": "https://www.musicradar.com/news/10-old-school-sampling-tricks-that-will-never-go-out-of-style"
+ },
+ {
+  "term": "Stem",
+  "definition": "One separated part of a mix: vocals, drums, bass or everything else.",
+  "section": "making-a-flip",
+  "source_url": "https://www.ableton.com/stem-separation-in-ableton-live/"
+ },
+ {
+  "term": "Stem separation",
+  "definition": "Software that splits a finished mix back into stems.",
+  "section": "making-a-flip",
+  "source_url": "https://www.izotope.com/en/learn/exploring-the-technology-that-makes-rx-7-music-rebalance-possible"
+ },
+ {
+  "term": "Mask",
+  "definition": "A map of where one instrument sits in time and frequency, used to pull it out of a mix.",
+  "section": "making-a-flip",
+  "source_url": "https://www.izotope.com/en/learn/exploring-the-technology-that-makes-rx-7-music-rebalance-possible"
+ },
+ {
+  "term": "Library music",
+  "definition": "Music made for broadcasters and film to license, never sold in shops.",
+  "section": "making-a-flip",
+  "source_url": "https://daily.redbullmusicacademy.com/2019/08/the-what-how-and-why-of-library-music"
+ },
+ {
+  "term": "Crate digging",
+  "definition": "Hunting through records for sample material.",
+  "section": "making-a-flip",
+  "source_url": "https://www.okayplayer.com/music/everything-you-need-to-know-about-sampling-2018.html"
+ }
+]

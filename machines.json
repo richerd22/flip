@@ -1,0 +1,222 @@
+[
+ {
+  "name": "Fairlight CMI Series I",
+  "maker": "Fairlight",
+  "year": "1979",
+  "price": "£18,000 (reported; other accounts give £12,000 or £13,000)",
+  "bits": "8-bit, 24 kHz",
+  "time": "",
+  "known_for": "Described by Museums Victoria as the first commercially available digital sampling instrument.",
+  "source_url": "https://120years.net/fairlight-computer-music-instrument-peter-vogel-kim-ryrie-australia-1979/"
+ },
+ {
+  "name": "E-mu Emulator",
+  "maker": "E-mu Systems",
+  "year": "1981",
+  "price": "$8,000 (reported; another account prints £8050)",
+  "bits": "",
+  "time": "",
+  "known_for": "E-mu's first sampler; about 500 were sold before it was discontinued in early 1984.",
+  "source_url": "https://musicradar.com/news/blast-from-the-past-e-mu-emulator"
+ },
+ {
+  "name": "E-mu Emulator II",
+  "maker": "E-mu Systems",
+  "year": "1984",
+  "price": "$7,995 (reported)",
+  "bits": "",
+  "time": "",
+  "known_for": "The 1984 successor to the Emulator.",
+  "source_url": "https://www.soundonsound.com/news/sos-podcast-emulator-ii-40th-anniversary"
+ },
+ {
+  "name": "Ensoniq Mirage",
+  "maker": "Ensoniq",
+  "year": "1984",
+  "price": "$1,695 (reported)",
+  "bits": "",
+  "time": "about 3 seconds, as Hank Shocklee recalled",
+  "known_for": "Brought sampling down to $1,695 when an Emulator cost about $8,000.",
+  "source_url": "https://reverb.com/news/history-of-ensoniq-samplers-mirage-eps-16-plus-asr-10"
+ },
+ {
+  "name": "Fairlight CMI Series III",
+  "maker": "Fairlight",
+  "year": "1985",
+  "price": "£60,000 (reported)",
+  "bits": "16-bit, 50 kHz stereo",
+  "time": "",
+  "known_for": "Took the Fairlight to 16-bit stereo and 16 voices.",
+  "source_url": "https://120years.net/fairlight-computer-music-instrument-peter-vogel-kim-ryrie-australia-1979/"
+ },
+ {
+  "name": "E-mu SP-12",
+  "maker": "E-mu Systems",
+  "year": "1985",
+  "price": "$2,745 (reported)",
+  "bits": "",
+  "time": "",
+  "known_for": "Dave Rossum's sampling drum machine and the predecessor of the SP-1200.",
+  "source_url": "https://www.rossum-electro.com/pages/education-sp-1200"
+ },
+ {
+  "name": "Akai S900",
+  "maker": "Akai",
+  "year": "1986",
+  "price": "",
+  "bits": "12-bit, 7.5-40 kHz",
+  "time": "750 KB; 63 seconds at 7.5 kHz, a little under 12 seconds at top quality",
+  "known_for": "An eight-voice 12-bit sampler that let the user trade sample rate for time.",
+  "source_url": "https://www.vintagesynth.com/akai/s900"
+ },
+ {
+  "name": "E-mu SP-1200",
+  "maker": "E-mu Systems",
+  "year": "1987",
+  "price": "$2,995 (reported)",
+  "bits": "12-bit linear, 26.04 kHz",
+  "time": "10 seconds total; 2.5 seconds per sound",
+  "known_for": "The gritty 12-bit drum sampler credited with the crunchy drums and filtered basslines of late-1980s and 1990s hip-hop.",
+  "source_url": "https://www.rossum-electro.com/pages/education-sp-1200"
+ },
+ {
+  "name": "Akai S950",
+  "maker": "Akai",
+  "year": "1988",
+  "price": "£1,399 inc VAT (1989 review, reported)",
+  "bits": "12-bit, up to 48 kHz",
+  "time": "750 KB, expandable to 2,250 KB; 9.89 seconds at 48 kHz",
+  "known_for": "Its time-stretch, from 1% to 999%, became part of the sound of 1990s jungle.",
+  "source_url": "https://www.muzines.co.uk/articles/akai-s950/1372"
+ },
+ {
+  "name": "Akai MPC60",
+  "maker": "Akai / Roger Linn",
+  "year": "1988",
+  "price": "$5,000 (reported)",
+  "bits": "12-bit, 40 kHz",
+  "time": "13.1 seconds (768 KB); 26.2 seconds expanded (1.5 MB)",
+  "known_for": "Sixteen pads, a 99-track sequencer and Roger Linn's swing.",
+  "source_url": "https://www.musicradar.com/music-tech/its-the-heart-of-my-studio-the-story-of-the-akai-mpc-from-the-mpc60-to-the-mpc-live-iii"
+ },
+ {
+  "name": "Ensoniq ASR-10",
+  "maker": "Ensoniq",
+  "year": "1992",
+  "price": "",
+  "bits": "",
+  "time": "",
+  "known_for": "Used by RZA, Kanye West, Timbaland, The Neptunes, Prince Paul and The Alchemist.",
+  "source_url": "https://reverb.com/news/history-of-ensoniq-samplers-mirage-eps-16-plus-asr-10"
+ },
+ {
+  "name": "Akai MPC3000",
+  "maker": "Akai / Roger Linn",
+  "year": "1994",
+  "price": "",
+  "bits": "",
+  "time": "",
+  "known_for": "Added 32 voices, a filter and effects; J Dilla's Limited Edition unit is in the Smithsonian.",
+  "source_url": "https://www.musicradar.com/music-tech/its-the-heart-of-my-studio-the-story-of-the-akai-mpc-from-the-mpc60-to-the-mpc-live-iii"
+ },
+ {
+  "name": "Akai MPC2000",
+  "maker": "Akai",
+  "year": "1997",
+  "price": "",
+  "bits": "16-bit",
+  "time": "",
+  "known_for": "The first MPC designed without Roger Linn.",
+  "source_url": "https://www.musicradar.com/music-tech/its-the-heart-of-my-studio-the-story-of-the-akai-mpc-from-the-mpc60-to-the-mpc-live-iii"
+ },
+ {
+  "name": "Boss SP-202 Dr. Sample",
+  "maker": "Boss (Roland)",
+  "year": "1998",
+  "price": "",
+  "bits": "",
+  "time": "4 minutes 20 seconds",
+  "known_for": "The first of the SP line, with eight pads.",
+  "source_url": "https://articles.roland.com/a-history-of-roland-samplers/"
+ },
+ {
+  "name": "Boss SP-303 Dr. Sample",
+  "maker": "Boss (Roland)",
+  "year": "2001",
+  "price": "",
+  "bits": "",
+  "time": "",
+  "known_for": "Its Vinyl Sim and tape echo are credited on Madvillainy and Donuts.",
+  "source_url": "https://articles.roland.com/a-history-of-roland-samplers/"
+ },
+ {
+  "name": "Roland SP-404",
+  "maker": "Roland",
+  "year": "2005",
+  "price": "",
+  "bits": "",
+  "time": "",
+  "known_for": "Twelve pads, 29 effects and a CompactFlash slot; the sampler of the beat scene around Flying Lotus, Ras G and Dibia$e.",
+  "source_url": "https://articles.roland.com/a-history-of-roland-samplers/"
+ },
+ {
+  "name": "Akai MPC One",
+  "maker": "Akai",
+  "year": "2020",
+  "price": "$699 / £639 (reported)",
+  "bits": "",
+  "time": "",
+  "known_for": "A standalone MPC with a 7-inch touchscreen and no battery.",
+  "source_url": "https://www.soundonsound.com/reviews/akai-mpc-one"
+ },
+ {
+  "name": "Native Instruments Maschine+",
+  "maker": "Native Instruments",
+  "year": "2020",
+  "price": "$1,399 / £1,099 (reported, January 2021 review)",
+  "bits": "",
+  "time": "",
+  "known_for": "The first Maschine that runs without a computer.",
+  "source_url": "https://www.soundonsound.com/reviews/native-instruments-maschine-plus"
+ },
+ {
+  "name": "Roland SP-404MKII",
+  "maker": "Roland",
+  "year": "2021",
+  "price": "",
+  "bits": "",
+  "time": "16 GB storage",
+  "known_for": "The current SP-404, with an OLED screen and Skip Back Sampling.",
+  "source_url": "https://articles.roland.com/a-history-of-roland-samplers/"
+ },
+ {
+  "name": "Teenage Engineering EP-133 K.O. II",
+  "maker": "Teenage Engineering",
+  "year": "2023",
+  "price": "$299 / €349 (official launch price, as reported)",
+  "bits": "16-bit, 46 kHz",
+  "time": "64 MB at launch; 128 MB standard from January 2026",
+  "known_for": "A 12-pad sampler with 999 sample slots at a $299 launch price.",
+  "source_url": "https://cdm.link/2023/11/ep-133-ko-ii/"
+ },
+ {
+  "name": "Akai S1000",
+  "maker": "Akai",
+  "year": "",
+  "price": "",
+  "bits": "16-bit, 44.1 kHz stereo",
+  "time": "2 MB, expandable to 8 MB",
+  "known_for": "Moved the Akai S-series to 16-bit stereo.",
+  "source_url": "https://www.perfectcircuit.com/signal/akai-s-series-samplers"
+ },
+ {
+  "name": "Casio SK-1",
+  "maker": "Casio",
+  "year": "",
+  "price": "under $100",
+  "bits": "8-bit, 9.38 kHz",
+  "time": "1.4 seconds",
+  "known_for": "A toy-priced sampling keyboard with a built-in microphone that became a circuit-bending standard.",
+  "source_url": "https://www.musicradar.com/news/blast-from-the-past-casio-sk-1"
+ }
+]

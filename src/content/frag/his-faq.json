@@ -1,0 +1,42 @@
+[
+ {
+  "q": "What is the difference between a sample and an interpolation?",
+  "a": "A sample uses a piece of the original recording. An interpolation, or replay, performs the same part again from scratch, so none of the original audio is used. The US Copyright Office says an interpolation needs the permission of the song's owner and not the recording's owner.",
+  "section": "what-sampling-is"
+ },
+ {
+  "q": "Is a remix the same as a sample?",
+  "a": "No. A remix reworks one existing recording by adding, changing or removing sounds, while a sample places a piece of a recording inside a new work. A mashup combines two or more sampled recordings, and a cover is a new recording of a whole song.",
+  "section": "what-sampling-is"
+ },
+ {
+  "q": "Who invented sampling in music?",
+  "a": "No single person. Pierre Schaeffer composed with recorded sounds in Paris in 1948, Harry Chamberlin built tape-replay keyboards in California, and DJ Kool Herc looped drum breaks by hand in the Bronx in 1973. The word \"sampling\" is credited to Peter Vogel and Kim Ryrie, makers of the Fairlight CMI (1979).",
+  "section": "history"
+ },
+ {
+  "q": "What was the first song to use a sample?",
+  "a": "It depends on the definition. Buchanan and Goodman's \"The Flying Saucer\" cut clips of hit records into a skit in 1956, and Kate Bush's \"Babooshka\" (1980) is usually named as the first hit with a digitally sampled sound, a Fairlight breaking-glass effect.",
+  "section": "history"
+ },
+ {
+  "q": "Did \"Rapper's Delight\" sample Chic's \"Good Times\"?",
+  "a": "Mostly no. A studio band replayed the bass and guitar, which makes that part an interpolation, but Nile Rodgers of Chic has said the string line was taken from his record. The usual account is that he and Bernard Edwards threatened a copyright action, settled and received co-writing credit; Rodgers says they sued.",
+  "section": "history"
+ },
+ {
+  "q": "Did \"Planet Rock\" sample Kraftwerk?",
+  "a": "No. John Robie replayed the \"Trans-Europe Express\" melody by hand and a programmer copied the \"Numbers\" beat on a Roland TR-808. Producer Arthur Baker says Kraftwerk were paid $1 per record sold.",
+  "section": "history"
+ },
+ {
+  "q": "How many samples are on \"Paul's Boutique\"?",
+  "a": "Nobody has an agreed count. A commonly cited tally is 105 sampled songs, while two IP lawyers on a 2025 podcast cited estimates of 150 to 300 samples. Engineer Mario Caldato Jr. recalls more than $250,000 being spent on clearances in 1989.",
+  "section": "history"
+ },
+ {
+  "q": "Was \"Endtroducing.....\" the first album made entirely from samples?",
+  "a": "Guinness World Records lists DJ Shadow's 1996 album that way. John Oswald's \"Plunderphonic\" CD, built from other people's recordings, dates from 1989 but was never sold.",
+  "section": "history"
+ }
+]

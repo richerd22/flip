@@ -1,0 +1,194 @@
+[
+ {
+  "q": "What is the Amen break?",
+  "options": [
+   "A four-bar drum solo from a 1969 B-side by The Winstons",
+   "A James Brown horn stab",
+   "The bassline of Chic's \"Good Times\"",
+   "A preset on the Casio MT-40"
+  ],
+  "answer": 0,
+  "why": "Gregory Coleman played it on \"Amen, Brother\". It is the most sampled recording in the published rankings.",
+  "section": "breaks"
+ },
+ {
+  "q": "Who played the \"Funky Drummer\" break?",
+  "options": [
+   "Bernard Purdie",
+   "Clyde Stubblefield",
+   "John \"Jabo\" Starks",
+   "John Bonham"
+  ],
+  "answer": 1,
+  "why": "Clyde Stubblefield, on James Brown's 1970 single. He was not credited as a writer.",
+  "section": "breaks"
+ },
+ {
+  "q": "A producer re-records a bassline from an old song instead of lifting the audio. What is that called?",
+  "options": [
+   "A sample",
+   "A cover",
+   "An interpolation",
+   "A mashup"
+  ],
+  "answer": 2,
+  "why": "An interpolation, or replay. It uses the composition but not the original recording, so it involves the song's owners and not the recording's.",
+  "section": "what-sampling-is"
+ },
+ {
+  "q": "Which machine is widely described as the first commercially available digital sampling instrument?",
+  "options": [
+   "Akai MPC60",
+   "E-mu SP-1200",
+   "Fairlight CMI",
+   "Ensoniq Mirage"
+  ],
+  "answer": 2,
+  "why": "The Fairlight CMI, launched in 1979, an 8-bit system with a five-figure price.",
+  "section": "machines"
+ },
+ {
+  "q": "How much total sample time did the E-mu SP-1200 have?",
+  "options": [
+   "About 10 seconds",
+   "About 60 seconds",
+   "About 4 minutes",
+   "About 1 second"
+  ],
+  "answer": 0,
+  "why": "About 10 seconds of 12-bit sound, 2.5 seconds per pad. Producers worked around it, and the workarounds became the style.",
+  "section": "machines"
+ },
+ {
+  "q": "Who designed the swing on the Akai MPC60?",
+  "options": [
+   "Dave Rossum",
+   "Roger Linn",
+   "J Dilla",
+   "Tom Oberheim"
+  ],
+  "answer": 1,
+  "why": "Roger Linn designed the MPC60 with Akai; it came out in 1988.",
+  "section": "machines"
+ },
+ {
+  "q": "Which 1991 case was the first US court ruling on sampling?",
+  "options": [
+   "Bridgeport Music v. Dimension Films",
+   "Campbell v. Acuff-Rose Music",
+   "Grand Upright Music v. Warner Bros. Records",
+   "Newton v. Diamond"
+  ],
+  "answer": 2,
+  "why": "Grand Upright, over Biz Markie's use of a Gilbert O'Sullivan song. The opinion opens with \"Thou shalt not steal.\"",
+  "section": "law"
+ },
+ {
+  "q": "\"Get a license or do not sample\" comes from which decision?",
+  "options": [
+   "VMG Salsoul v. Ciccone (2016)",
+   "Bridgeport Music v. Dimension Films (2005)",
+   "Pelham v. Hutter (2019)",
+   "Estate of Smith v. Graham (2020)"
+  ],
+  "answer": 1,
+  "why": "The Sixth Circuit in Bridgeport, about a two-second Funkadelic guitar chord. The Ninth Circuit disagreed in 2016.",
+  "section": "law"
+ },
+ {
+  "q": "Is there a rule that samples under six seconds are free to use?",
+  "options": [
+   "Yes, in the US",
+   "Yes, in the EU",
+   "Only for drums",
+   "No country has one"
+  ],
+  "answer": 3,
+  "why": "It is folklore. No statute or court sets a safe number of seconds.",
+  "section": "law"
+ },
+ {
+  "q": "The Kraftwerk \"Metall auf Metall\" case turned on a sample how long?",
+  "options": [
+   "About two seconds",
+   "About 12 seconds",
+   "About 30 seconds",
+   "A full verse"
+  ],
+  "answer": 0,
+  "why": "A roughly two-second rhythm loop, in court since 1999, with EU rulings in 2019 and 2026.",
+  "section": "law"
+ },
+ {
+  "q": "How many permissions does clearing a sample of a recording normally take?",
+  "options": [
+   "One",
+   "Two",
+   "Three",
+   "None if it is short"
+  ],
+  "answer": 1,
+  "why": "Two: one from whoever owns the recording and one from whoever owns the song.",
+  "section": "clearing"
+ },
+ {
+  "q": "When did De La Soul's early albums reach streaming services?",
+  "options": [
+   "2010",
+   "2015",
+   "2019",
+   "2023"
+  ],
+  "answer": 3,
+  "why": "March 2023, after years of delay tied to their samples.",
+  "section": "money"
+ },
+ {
+  "q": "On \"Planet Rock\", how did Kraftwerk's music get onto the record?",
+  "options": [
+   "It was sampled from vinyl",
+   "It was replayed",
+   "It was licensed from a library",
+   "It was not used"
+  ],
+  "answer": 1,
+  "why": "The parts were replayed, not sampled.",
+  "section": "breaks"
+ },
+ {
+  "q": "The \"Sleng Teng\" riddim came from where?",
+  "options": [
+   "A Kraftwerk B-side",
+   "A James Brown outtake",
+   "A preset on a Casio MT-40 keyboard",
+   "A library music LP"
+  ],
+  "answer": 2,
+  "why": "The MT-40's \"rock\" preset, written by Casio engineer Okuda Hiroko.",
+  "section": "breaks"
+ },
+ {
+  "q": "Which Akai sampler's time-stretch became part of the sound of 1990s jungle?",
+  "options": [
+   "S950",
+   "MPC3000",
+   "S612",
+   "MPC One"
+  ],
+  "answer": 0,
+  "why": "The S950, which could stretch a sample from 1% to 999%.",
+  "section": "machines"
+ },
+ {
+  "q": "What did the Library of Congress do with \"Amen, Brother\" in May 2026?",
+  "options": [
+   "Declared it public domain",
+   "Added it to the National Recording Registry",
+   "Awarded it a Grammy",
+   "Nothing"
+  ],
+  "answer": 1,
+  "why": "It joined the National Recording Registry in the class of 2026.",
+  "section": "breaks"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "q": "Did Bad Bunny win the reggaeton dembow lawsuit?",
+  "a": "On September 1, 2026 the judge in Browne v. Clark gave the defendants, Bad Bunny among them, summary judgment on the plaintiffs' selection-and-arrangement theory, because no single copyrighted work containing the claimed arrangement had been identified. The order does not decide whether the rhythm is original, and other claims, including direct-sampling claims, continued. No appeal had been reported by September 4, 2026.",
+  "section": "world"
+ },
+ {
+  "q": "Why are there sped-up versions of every song on Spotify?",
+  "a": "Fan-made sped-up edits on TikTok started moving charts: Miguel's 2010 single 'Sure Thing' reached a new Hot 100 peak of No. 15 in April 2023. Labels responded with official sped-up releases, and a remix issued under the artist's own name counts toward that artist's Billboard position.",
+  "section": "world"
+ },
+ {
+  "q": "Does Spotify show what a song samples?",
+  "a": "Spotify bought the sample database WhoSampled in November 2025 and announced SongDNA, a Now Playing view that maps a track's samples, covers and collaborators. It began rolling out in beta to Premium subscribers on iOS and Android on March 24, 2026. WhoSampled's data is submitted by users and reviewed by moderators.",
+  "section": "world"
+ },
+ {
+  "q": "How did Portishead make their samples?",
+  "a": "For 'Dummy' (1994) the band recorded their own music, had it pressed to vinyl, wore the records down and then sampled them, so the results sounded like old LPs. The album also credits samples from other artists, including Lalo Schifrin and Isaac Hayes.",
+  "section": "world"
+ },
+ {
+  "q": "Can you sample an AI-generated song?",
+  "a": "One has been cleared: 'BBL Drizzy', generated with Udio from a human-written lyric, was sampled on Drake and Sexyy Red's 'U My Everything' in May 2024. The writer's lawyer cleared only the publishing and treated the AI-made recording as public domain. That was one negotiated deal, and no court has ruled on the approach.",
+  "section": "ai"
+ },
+ {
+  "q": "Is AI music trained on copyrighted songs?",
+  "a": "The three major label groups sued Suno and Udio in 2024 alleging their models were trained on copyrighted recordings. Universal and Warner settled with Udio and Warner with Suno in late 2025, with licensing deals; Universal and Sony filed a second suit against Suno on September 18, 2026 and were still litigating as of November 16, 2026. No US court had ruled by then on whether such training is fair use.",
+  "section": "ai"
+ },
+ {
+  "q": "Did the labels settle with Suno and Udio?",
+  "a": "Some did. Universal settled with Udio (announced October 29, 2025), Warner with Udio (November 19, 2025) and Warner with Suno (November 25, 2025). Universal and Sony were still suing Suno, in two cases, as of November 16, 2026, and Sony had two suits open against Udio as of September 1, 2026.",
+  "section": "ai"
+ },
+ {
+  "q": "Did clearance kill sample-heavy albums?",
+  "a": "Public Enemy's Chuck D and Hank Shocklee say clearance costs forced them to change style by 1991, and a 2011 academic estimate put the hypothetical loss on a fully licensed 'Paul's Boutique' at about $20 million. Sampling itself stayed in the charts: Tracklib counted samples in 17% of 2022's Hot 100 hits, usually one prominent source instead of many.",
+  "section": "ai"
+ }
+]

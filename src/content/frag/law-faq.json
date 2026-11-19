@@ -1,0 +1,42 @@
+[
+ {
+  "q": "How many seconds of a song can you sample without permission?",
+  "a": "No court or statute sets a number. The \"six seconds\" figure traces to Newton v. Diamond (9th Cir., 2004), which dealt only with the composition in a case where the recording had been licensed. For recordings, the Sixth Circuit held in 2005 that no sample is too small and the Ninth Circuit held in 2016 that a 0.23-second horn hit was.",
+  "section": "law"
+ },
+ {
+  "q": "Do you need to clear a sample if you replay it yourself?",
+  "a": "A replay, or interpolation, does not use the original recording, so the master owner's permission is not involved; US law says recording rights do not extend to an independently made soundalike. The composition is still being used, so publishing clearance is still needed, and the publisher is free to refuse.",
+  "section": "law"
+ },
+ {
+  "q": "Is sampling fair use?",
+  "a": "US courts have rarely said so. The Second Circuit affirmed fair use for Drake's \"Pound Cake\" in 2020, in a non-precedential ruling on unusual facts, and the Supreme Court's 2023 Warhol decision has since narrowed the first fair use factor.",
+  "section": "law"
+ },
+ {
+  "q": "What happened in the Kraftwerk sampling case?",
+  "a": "Kraftwerk's founders sued in 1999 over a two-second loop of \"Metall auf Metall\" in Sabrina Setlur's 1997 track \"Nur mir\". The EU's top court held in 2019 that a producer can object to even a very short sample unless it is unrecognizable to the ear, then in April 2026 defined pastiche as a recognizable creative dialogue with the source. On September 3, 2026 Germany's Federal Court of Justice applied that test and held the loop a permitted pastiche from June 7, 2021, the day the German pastiche exception took effect.",
+  "section": "law"
+ },
+ {
+  "q": "Can you sample a song if you change it enough?",
+  "a": "There is no \"30 percent rule\" in copyright law. In the EU, the 2019 Pelham I ruling does turn on whether a sample is modified until it is unrecognizable to the ear; in the US, the Sixth Circuit's Bridgeport ruling involved a chord that had been pitched down and looped and still found no de minimis defense.",
+  "section": "law"
+ },
+ {
+  "q": "Why did The Verve lose the rights to \"Bitter Sweet Symphony\"?",
+  "a": "No court ruled on it. The band had licensed the four-second orchestral recording but not the underlying Rolling Stones composition, which ABKCO controlled; the dispute was settled out of court with ABKCO taking all of the publishing. In May 2019 Richard Ashcroft announced that Mick Jagger and Keith Richards had agreed to hand back their share.",
+  "section": "law"
+ },
+ {
+  "q": "Can you get sued for an uncleared sample on a free mixtape or SoundCloud?",
+  "a": "No sampling ruling has treated giving the music away as a defense. Clearance specialist Deborah Mannis-Gardner said in 2016 that free mixtapes still need clearing because they have promotional value. Since Warner Chappell v. Nealy (2024), a timely US claim can also reach back for damages beyond three years.",
+  "section": "law"
+ },
+ {
+  "q": "Are records from the 1960s in the public domain in the US?",
+  "a": "No. Recordings made before February 15, 1972 gained federal protection under the Music Modernization Act of 2018, and those from 1957 to early 1972 are protected until 2067.",
+  "section": "law"
+ }
+]

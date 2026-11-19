@@ -1,0 +1,107 @@
+[
+ {
+  "date": "1975",
+  "label": "Qasar M8",
+  "detail": "Tony Furse's design, the basis of the Fairlight CMI.",
+  "source_url": "https://120years.net/fairlight-computer-music-instrument-peter-vogel-kim-ryrie-australia-1979/",
+  "era": "Before 1979"
+ },
+ {
+  "date": "1979",
+  "label": "Fairlight CMI",
+  "detail": "Peter Vogel and Kim Ryrie demonstrate the first commercially available digital sampling instrument: 8-bit, 24 kHz.",
+  "source_url": "https://collections.museumsvictoria.com.au/items/1095198",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1984",
+  "label": "Ensoniq Mirage",
+  "detail": "A sampler at a reported $1,695, when an Emulator cost about $8,000.",
+  "source_url": "https://reverb.com/news/history-of-ensoniq-samplers-mirage-eps-16-plus-asr-10",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1986",
+  "label": "Ultimate Breaks and Beats begins",
+  "detail": "Lenny Roberts and BreakBeat Lou start a 25-volume series of break compilations that runs to 1990 or 1991.",
+  "source_url": "https://rockthebells.com/articles/ultimate-breaks-and-beats",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1986",
+  "label": "\"The Bridge\"",
+  "detail": "Marley Marl chops the kick, snare and hi-hat from \"Impeach the President\" for MC Shan.",
+  "source_url": "https://rockthebells.com/articles/ultimate-breaks-and-beats",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1987",
+  "label": "E-mu SP-1200",
+  "detail": "12-bit, 26.04 kHz, 10 seconds of memory.",
+  "source_url": "https://www.rossum-electro.com/pages/education-sp-1200",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1988",
+  "label": "Akai MPC60",
+  "detail": "Roger Linn's interface and David Cockerell's sound engine, at a reported $5,000.",
+  "source_url": "https://www.musicradar.com/music-tech/its-the-heart-of-my-studio-the-story-of-the-akai-mpc-from-the-mpc60-to-the-mpc-live-iii",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1992",
+  "label": "Ensoniq ASR-10",
+  "detail": "The sampler RZA says the first 100 Wu-Tang songs were made on.",
+  "source_url": "https://reverb.com/news/history-of-ensoniq-samplers-mirage-eps-16-plus-asr-10",
+  "era": "1992-2009"
+ },
+ {
+  "date": "2001",
+  "label": "Boss SP-303",
+  "detail": "Vinyl Sim and tape echo in a portable box.",
+  "source_url": "https://articles.roland.com/a-history-of-roland-samplers/",
+  "era": "1992-2009"
+ },
+ {
+  "date": "2001-10-30",
+  "label": "Ableton Live 1",
+  "detail": "Clips that stretch to the project tempo.",
+  "source_url": "https://www.musicradar.com/news/story-of-ableton-live-at-20",
+  "era": "1992-2009"
+ },
+ {
+  "date": "2005",
+  "label": "Roland SP-404",
+  "detail": "12 pads, 29 effects, CompactFlash.",
+  "source_url": "https://articles.roland.com/a-history-of-roland-samplers/",
+  "era": "1992-2009"
+ },
+ {
+  "date": "2014-07-18",
+  "label": "J Dilla's MPC3000 goes to the Smithsonian",
+  "detail": "Maureen Yancey donates her son's MPC3000 Limited Edition and Minimoog Voyager.",
+  "source_url": "https://newsdesk.si.edu/releases/j-dilla-hip-hop-collection-donated-national-museum-african-american-history-and-culture",
+  "era": "2010-now"
+ },
+ {
+  "date": "2019-11",
+  "label": "Spleeter",
+  "detail": "Deezer Research releases a free, open-source stem separator.",
+  "source_url": "https://musicradar.com/news/deezer-introduces-spleeter-a-free-tool-that-anyone-can-use-to-create-stems-from-stereo-audio-files",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-11",
+  "label": "EP-133 K.O. II",
+  "detail": "Teenage Engineering's sampler launches at $299.",
+  "source_url": "https://cdm.link/2023/11/ep-133-ko-ii/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-09-02",
+  "label": "Ableton Live 12.3 beta",
+  "detail": "Four-stem separation, processed locally, arrives in Live Suite.",
+  "source_url": "https://www.musicradar.com/music-tech/stem-separation-splice-integration-ableton-is-playing-catch-up-with-live-12-3-but-its-best-new-features-are-the-ones-hidden-beyond-the-headlines",
+  "era": "2010-now"
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "date": "1987",
+  "label": "\"Pump Up the Volume\" injunction",
+  "detail": "Stock Aitken Waterman obtain an injunction over a seven-second sample in the M/A/R/R/S single; distribution stops for five days until a deal is reached.",
+  "source_url": "https://www.soundonsound.com/techniques/classic-tracks-marrs-pump-volume",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1989",
+  "label": "The Turtles sue De La Soul",
+  "detail": "Flo & Eddie sue over a 12-second sample on 3 Feet High and Rising. The case settles out of court with no ruling; the settlement year and amount are reported and unconfirmed.",
+  "source_url": "https://www.spinmagazine.com/2021/05/bite-this-1989-sampling-feature/",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1991",
+  "label": "Grand Upright v. Warner Bros.",
+  "detail": "A New York federal court enjoins Biz Markie's \"Alone Again\" in the first US ruling on sampling.",
+  "source_url": "https://www.legal500.com/intelligence/united-states/intellectual-property/all-samples-cleared-remembering-biz-markie's-contributions-to-copyright-law",
+  "era": "1979-1991"
+ },
+ {
+  "date": "1994",
+  "label": "Campbell v. Acuff-Rose",
+  "detail": "The US Supreme Court holds that a commercial parody can be fair use, in a case about 2 Live Crew and \"Oh, Pretty Woman\".",
+  "source_url": "https://www.wipo.int/en/web/wipo-magazine/articles/the-song-remains-the-same-a-review-of-the-legalities-of-music-sampling-37091",
+  "era": "1992-2009"
+ },
+ {
+  "date": "1999",
+  "label": "Kraftwerk sue over \"Nur mir\"",
+  "detail": "Kraftwerk's founders sue in Hamburg over Moses Pelham's 1997 loop of about two seconds of \"Metall auf Metall\", starting a case that was still in court in 2026.",
+  "source_url": "https://www.lto.de/recht/hintergruende/h/bgh-1zr7422-metall-auf-metall-uebernahme-als-pastiche-erlaubt",
+  "era": "1992-2009"
+ },
+ {
+  "date": "2004",
+  "label": "Newton v. Diamond",
+  "detail": "The Ninth Circuit holds the Beastie Boys' use of a three-note flute passage de minimis as to the composition.",
+  "source_url": "https://www.musicologize.com/case-law-library/",
+  "era": "1992-2009"
+ },
+ {
+  "date": "2005",
+  "label": "Bridgeport v. Dimension Films",
+  "detail": "The Sixth Circuit holds there is no de minimis defense for digitally sampling a sound recording.",
+  "source_url": "https://www.musicologize.com/?p=49988",
+  "era": "1992-2009"
+ },
+ {
+  "date": "2014",
+  "label": "UK pastiche exception",
+  "detail": "Section 30A is added to the Copyright, Designs and Patents Act, permitting fair dealing for caricature, parody or pastiche.",
+  "source_url": "https://www.mishcon.com/news/the-pastiche-exception-in-copyright-law-what-recent-cases-mean-for-creators-and-for-ai",
+  "era": "2010-now"
+ },
+ {
+  "date": "2016",
+  "label": "VMG Salsoul v. Ciccone",
+  "detail": "The Ninth Circuit holds a 0.23-second horn hit in Madonna's \"Vogue\" de minimis, splitting from Bridgeport.",
+  "source_url": "https://www.loeb.com/zh-hans/insights/publications/2016/06/vmg-salsoul-llc-v-ciccone",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-10-11",
+  "label": "Music Modernization Act signed",
+  "detail": "US recordings made before February 15, 1972 get federal protection; those from 1957 onward are covered until 2067.",
+  "source_url": "https://www.everycrsreport.com/reports/LSB10181.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2019-07-29",
+  "label": "CJEU, Pelham I",
+  "detail": "The EU's top court holds a producer can object to even a very short sample unless it is unrecognizable to the ear.",
+  "source_url": "https://lausen.com/en/cjeu-defines-pastiche-no-blanket-licence-for-sampling-in-eu-copyright-law/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2020-02-03",
+  "label": "Estate of Smith v. Graham",
+  "detail": "The Second Circuit affirms fair use for Drake's use of the \"Jimmy Smith Rap\" composition in \"Pound Cake\".",
+  "source_url": "https://tushnet.blogspot.com/2020/02/second-circuit-summarily-affirms-fair.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023",
+  "label": "Warhol v. Goldsmith",
+  "detail": "The US Supreme Court narrows the first fair use factor, in an opinion that mentions sampling among uses that need a license.",
+  "source_url": "https://www.dorsey.com/newsresources/blogs/tmca/2023/05/supreme-courts-warhol-decision-transforms-law-of-f",
+  "era": "2010-now"
+ },
+ {
+  "date": "2024-05-09",
+  "label": "Warner Chappell v. Nealy",
+  "detail": "The US Supreme Court holds there is no separate three-year cap on damages for a timely copyright claim.",
+  "source_url": "https://www.loeb.com/en/insights/publications/2024/05/warner-chappell-music-inc-v-nealy",
+  "era": "2010-now"
+ },
+ {
+  "date": "2026-04-14",
+  "label": "CJEU, Pelham II",
+  "detail": "The Grand Chamber defines pastiche: sampling can qualify in principle, but only as a recognizable creative dialogue with the source.",
+  "source_url": "https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/cjeu-grand-chamber-rules-music-sampling-and-pastiche-first-cjeu-hearing-generative-ai-and-copyright-2026-04-24_en",
+  "era": "2010-now"
+ },
+ {
+  "date": "2026-09-03",
+  "label": "German Federal Court of Justice, \"Metall auf Metall\"",
+  "detail": "Applying Pelham II, the court holds the Kraftwerk loop a permitted pastiche from June 7, 2021.",
+  "source_url": "https://miz.org/de/nachrichten/nach-urteil-des-bundesgerichtshofs-kann-tontraeger-sampling-als-pastiche-zulaessig-sein",
+  "era": "2010-now"
+ }
+]

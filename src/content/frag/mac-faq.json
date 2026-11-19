@@ -1,0 +1,42 @@
+[
+ {
+  "q": "What is the difference between sample rate and bit depth?",
+  "a": "Sample rate is how many times a second the sound is measured, and it sets the highest pitch that can be captured: half the sample rate. Bit depth is how many loudness steps each measurement can use, with about 6 dB of dynamic range per bit.",
+  "section": "machines"
+ },
+ {
+  "q": "Why does the SP-1200 sound gritty?",
+  "a": "It samples at 12-bit and 26.04 kHz, and re-tuning a sound adds aliasing and imaging artifacts that its maker kept on purpose in the reissue. Producers also sampled records sped up to 45 rpm and tuned them back down to save memory, which roughens the sound further.",
+  "section": "machines"
+ },
+ {
+  "q": "What is MPC swing?",
+  "a": "Roger Linn, who designed it, says it delays the second 16th note within each 8th note. At 50% there is no swing and at 66% the pair is a triplet; Linn singles out 54% and 62% as useful settings in between.",
+  "section": "machines"
+ },
+ {
+  "q": "Did J Dilla really turn quantize off?",
+  "a": "That is the popular story, and Dan Charnas, author of \"Dilla Time\" (2022), rejects it. He describes straight and swung feels placed together on purpose, using the MPC's swing and shift-timing settings from about 1997-98.",
+  "section": "making-a-flip"
+ },
+ {
+  "q": "What sampler did J Dilla use on Donuts?",
+  "a": "Roland's own history of its samplers credits the Boss SP-303 on Donuts. Dilla's Akai MPC3000 Limited Edition is in the Smithsonian's National Museum of African American History and Culture, donated in 2014.",
+  "section": "machines"
+ },
+ {
+  "q": "What sampler should a beginner know about?",
+  "a": "The current standalone boxes are the Teenage Engineering EP-133 K.O. II ($299 at its 2023 launch), the Akai MPC One ($699 when reviewed in 2020) and the Roland SP-404MKII (2021). On a computer, Ableton Live and the Serato Sample plug-in cover the same ground.",
+  "section": "machines"
+ },
+ {
+  "q": "How do I isolate vocals or drums from a song to sample it?",
+  "a": "With stem separation, software that splits a finished mix into vocals, drums, bass and the rest. Deezer released the free, open-source Spleeter in November 2019, and the feature is now built into Serato Sample, FL Studio, Logic Pro, Ableton Live 12.3 Suite and the Akai MPC Live III.",
+  "section": "making-a-flip"
+ },
+ {
+  "q": "How do I find out what song a sample comes from?",
+  "a": "WhoSampled is a user-contributed database of samples, covers and remixes; in November 2025 it listed 622,026 samples across 1,246,970 songs. Spotify announced it was buying the site on November 19, 2025, and said it would stay online as a standalone site.",
+  "section": "making-a-flip"
+ }
+]

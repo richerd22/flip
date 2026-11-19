@@ -1,0 +1,71 @@
+{
+ "title": "The Flip: how sampling works - the breaks, the machines, the law and the money",
+ "description": "An independent, cited guide to music sampling: the Amen break and the other most-sampled records, the SP-1200 and the MPC, the lawsuits from Biz Markie to Kraftwerk, how sample clearance works and what it costs, and what AI changes.",
+ "paths": [
+  {
+   "who": "New to this",
+   "title": "Start with the basics",
+   "blurb": "What a sample is, where the idea came from and the records everyone borrows from.",
+   "slugs": [
+    "what-sampling-is",
+    "history",
+    "breaks"
+   ]
+  },
+  {
+   "who": "Making beats",
+   "title": "Get your hands on it",
+   "blurb": "The machines, the techniques and where producers find their sounds.",
+   "slugs": [
+    "machines",
+    "making-a-flip",
+    "world"
+   ]
+  },
+  {
+   "who": "Clearing one",
+   "title": "Do it by the book",
+   "blurb": "What the courts have said, how clearance works and where the money goes.",
+   "slugs": [
+    "law",
+    "clearing",
+    "money"
+   ]
+  },
+  {
+   "who": "Watching AI",
+   "title": "See what changes",
+   "blurb": "Stem splitters, generated samples and the lawsuits around them.",
+   "slugs": [
+    "ai",
+    "law"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is sampling in music?",
+   "a": "Sampling is taking a piece of an existing recording and using it inside a new one. Re-recording the part instead is an interpolation, and re-recording the whole song is a cover."
+  },
+  {
+   "q": "Is sampling legal?",
+   "a": "A sample of a recording touches two copyrights, the recording and the song, and both owners can license or refuse it. US appeals courts disagree on whether a tiny sample can be too small to count, and the EU has its own rules on short samples and pastiche. This is general information, not legal advice."
+  },
+  {
+   "q": "Is there a six-second rule for samples?",
+   "a": "No. No statute or court in any country sets a number of seconds below which a sample is free to use."
+  },
+  {
+   "q": "What is the most sampled song of all time?",
+   "a": "\"Amen, Brother\" by The Winstons (1969), for its four-bar drum break. WhoSampled listed 6,873 uses as of July 2025."
+  },
+  {
+   "q": "How much does it cost to clear a sample?",
+   "a": "There is no rate card. Each owner names a price, usually a fee up front plus a share of the new track, and either one is free to say no."
+  },
+  {
+   "q": "What is the difference between a sample and an interpolation?",
+   "a": "A sample uses the original audio. An interpolation re-records the part, so it involves the owners of the song but not the owner of the original recording."
+  }
+ ]
+}

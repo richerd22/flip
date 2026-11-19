@@ -1,0 +1,122 @@
+[
+ {
+  "term": "Musical composition (publishing)",
+  "definition": "The song itself, music plus any lyrics, separate from any recording of it. Usually held by the songwriter or a publisher.",
+  "section": "law",
+  "source_url": "https://www.copyright.gov/circs/circ56a.pdf"
+ },
+ {
+  "term": "Sound recording (master)",
+  "definition": "One fixed performance of a song. A separate copyright from the composition, usually held by a label or the artist.",
+  "section": "law",
+  "source_url": "https://www.copyright.gov/circs/circ56a.pdf"
+ },
+ {
+  "term": "Interpolation (replay)",
+  "definition": "Re-performing part of an existing song instead of lifting the recording. It uses the composition only, so it needs publishing clearance and no master license.",
+  "section": "law",
+  "source_url": "https://www.tracklib.com/blog/sampling-myths"
+ },
+ {
+  "term": "Master license",
+  "definition": "Permission from the owner of the sound recording.",
+  "section": "law",
+  "source_url": "https://artists.spotify.com/blog/the-dos-and-donts-of-sample-clearances"
+ },
+ {
+  "term": "Publishing license",
+  "definition": "Permission from the owner of the composition.",
+  "section": "law",
+  "source_url": "https://artists.spotify.com/blog/the-dos-and-donts-of-sample-clearances"
+ },
+ {
+  "term": "Compulsory (mechanical) license",
+  "definition": "The US section 115 license to make and distribute recordings of a musical work, the route used for cover versions. Sample clearance has no equivalent and is a free negotiation.",
+  "section": "law",
+  "source_url": "https://copyright.gov/music-modernization/faq.html"
+ },
+ {
+  "term": "De minimis",
+  "definition": "A taking so small the law ignores it. In the Ninth Circuit, one an average audience would not recognize.",
+  "section": "law",
+  "source_url": "https://www.loeb.com/zh-hans/insights/publications/2016/06/vmg-salsoul-llc-v-ciccone"
+ },
+ {
+  "term": "Circuit split",
+  "definition": "Two US federal appeals courts giving opposite answers to the same question. On sampling, the two are Bridgeport (Sixth Circuit, 2005) and VMG Salsoul (Ninth Circuit, 2016).",
+  "section": "law",
+  "source_url": "https://corporatecounselnow.com/music-sampling-has-tune-changed"
+ },
+ {
+  "term": "Fair use",
+  "definition": "A US defense that weighs four factors case by case. It contains no fixed number of seconds or notes.",
+  "section": "law",
+  "source_url": "https://corporatecounselnow.com/music-sampling-has-tune-changed"
+ },
+ {
+  "term": "Transformative use",
+  "definition": "A use that gives the borrowed material a new purpose or message. Central to fair use since Campbell (1994); the Supreme Court revisited it in Warhol (2023).",
+  "section": "law",
+  "source_url": "https://www.bu.edu/jostl/files/2020/04/5.-Claflin.pdf"
+ },
+ {
+  "term": "Fragmented literal similarity",
+  "definition": "Exact copying of a small part of a work, as in sampling. The question becomes whether the part taken matters.",
+  "section": "law",
+  "source_url": "https://blogs.law.gwu.edu/mcir/?p=6002"
+ },
+ {
+  "term": "Substantial part",
+  "definition": "The UK infringement test: whether an important part of the work was taken, judged by quality as much as quantity.",
+  "section": "law",
+  "source_url": "https://www.wipo.int/en/web/wipo-magazine/articles/the-song-remains-the-same-a-review-of-the-legalities-of-music-sampling-37091"
+ },
+ {
+  "term": "Fair dealing",
+  "definition": "The UK's exceptions for listed purposes such as caricature, parody and pastiche. It asks whether more was taken than needed and whether the use competes with the original.",
+  "section": "law",
+  "source_url": "https://www.mishcon.com/news/the-pastiche-exception-in-copyright-law-what-recent-cases-mean-for-creators-and-for-ai"
+ },
+ {
+  "term": "Pastiche",
+  "definition": "In EU law since the 2026 Pelham II ruling: a creation that evokes an existing work, is noticeably different from it, and engages with it in an objectively recognizable creative dialogue.",
+  "section": "law",
+  "source_url": "https://www.simkins.com/news/kraftwerk-revisited---cjeu-ruling-in-pelham-ii-clarifies-test-for-the-pastiche-exception"
+ },
+ {
+  "term": "Phonogram producer",
+  "definition": "The EU and Japanese legal term for whoever first fixes a recording, usually the label. Holds a right of its own in the recording.",
+  "section": "law",
+  "source_url": "https://cms.law/en/aut/legal-updates/no-hidden-tracks-cjeu-rules-that-pastiche-must-be-recognisable"
+ },
+ {
+  "term": "Neighboring rights",
+  "definition": "Rights of performers and record producers that sit next to the author's copyright.",
+  "section": "law",
+  "source_url": "https://monolith.law/en/general-corporate/copyright-neighboring-rights-japan"
+ },
+ {
+  "term": "Moral rights",
+  "definition": "Personal rights to be credited and to object to distortion of a work or performance. Japan gives them to performers.",
+  "section": "law",
+  "source_url": "https://monolith.law/en/general-corporate/copyright-neighboring-rights-japan"
+ },
+ {
+  "term": "Pre-1972 recordings",
+  "definition": "US recordings made before February 15, 1972, which had no federal protection until the Music Modernization Act of 2018.",
+  "section": "law",
+  "source_url": "https://www.everycrsreport.com/reports/LSB10181.html"
+ },
+ {
+  "term": "Discovery rule",
+  "definition": "The idea that the limitation clock starts when the owner learns of the infringement. The Supreme Court assumed it without deciding in Warner Chappell v. Nealy (2024).",
+  "section": "law",
+  "source_url": "https://www.loeb.com/en/insights/publications/2024/05/warner-chappell-music-inc-v-nealy"
+ },
+ {
+  "term": "Deposit copy",
+  "definition": "The sheet music lodged with the US Copyright Office. For songs under the 1909 Act it defines what the copyright covers.",
+  "section": "law",
+  "source_url": "https://www.authorsalliance.org/2025/06/23/bonds-beats-and-lawsuits-how-ed-sheeran-won/"
+ }
+]
