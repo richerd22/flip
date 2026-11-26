@@ -24,6 +24,7 @@ Independent cited field guide, 35,755 words, 380 sources, updated November 2026.
 - Everything on one page: https://flip.cold.fyi/all/
 
 ## Sister guides
+- https://finale.cold.fyi/ - The Finale: how fireworks work
 - https://beam.cold.fyi/ - The Beam: how laser shows work
 - https://groove.cold.fyi/ - The Groove: how a vinyl record is made
 - https://radiowheel.cold.fyi/ - The Radio Wheel: every GTA radio station, song and talk show
